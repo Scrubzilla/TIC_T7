@@ -1,0 +1,26 @@
+Date: 2016-11-21
+Version 0.0.4
+
+Additions:
+
+-Frame data:
+*Section: - Frame data viewer has been added.
+~Can be used to see frame data for your character.
+~Can be used to see different kinds of moves for you character, for example pokes, launchers etc.
+~Can be used to see the punishers of your character.
+~You can choose to only see the moves of your character that are +0 or more on block.
+~You can choose an opponent and see what moves that can be punished on several different frames.
+~You can see example juggles for your character and in the future you will be able to add your own juggles.
+~You can click on the ?:mark to see all of the different notations and their meaning.
+
+-Frame data - Character Selection:
+*Character: Bob has been added.
+*Character: Master Raven has been added.
+*Character: Lee has been added.
+*Character: Miguel has been added.
+
+
+Changes: 
+
+-User interface:
+*Modified the width of the horizontal bar in the tutorials section.

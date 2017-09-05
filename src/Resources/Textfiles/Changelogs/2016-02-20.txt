@@ -1,0 +1,37 @@
+Date: 2016-02-20
+Version 0.0.3
+
+Additions:
+-Frame Data - Character Selection:
+*Character: Akuma has been added.
+*Character: Nina has been added.
+
+-Misc:
+*Section: Changelog has been added.
+*Section: Contact has been added.
+
+-Tutorials:
+*Section: Basics has been added.
+*Section: Specifics has been added
+
+-Guides:
+*Section: Tutorials has been added.
+
+
+Changes:
+-Frame Data - Character Selection:
+*Changed character portraits.
+*Changed the layout of the character selection screen.
+
+-General:
+*Changed error-messages and the way they were produced.
+
+-User interface:
+*Small modifications has been made to the menu layouts.
+*Modified the colours of text and windows.
+
+-Guides:
+*Moved the buttons "Basics" and "Specifics" to the "Tutorials" section.
+
+-Navigation bar:
+*Changed the navigation bar icons.

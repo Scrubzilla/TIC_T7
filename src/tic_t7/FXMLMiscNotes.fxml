@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="background" prefHeight="690.0" prefWidth="1350.0" stylesheets="@Layout.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="tic_t7.MiscNotesController">
+   <children>
+      <ImageView fitHeight="47.0" fitWidth="429.0" layoutX="460.0" layoutY="643.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../Resources/Images/NavigationBar/NavigationBarBackground.png" />
+         </image>
+      </ImageView>
+      <Button id="navigationBarBackwardsButtonNormal" layoutX="551.0" layoutY="652.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="37.0" prefWidth="36.0" text="Backwards" textFill="TRANSPARENT" />
+      <Button id="navigationBarHomeButtonNormal" layoutX="657.0" layoutY="652.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="37.0" prefWidth="36.0" text="Home" textFill="TRANSPARENT" />
+      <Button id="navigationBarForwardButtonNormal" fx:id="navigationForwardButton" layoutX="763.0" layoutY="652.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="37.0" prefWidth="36.0" text="Forward" textFill="TRANSPARENT" />
+      <JFXTabPane layoutX="201.0" layoutY="50.0" prefHeight="543.0" prefWidth="1099.0">
+         <tabs>
+            <Tab text="Notes">
+              <content>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <TextArea />
+                     </children></AnchorPane>
+              </content>
+            </Tab>
+            <Tab text="Combos">
+              <content>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <TableView layoutX="-6.0" layoutY="-4.0" prefHeight="331.0" prefWidth="668.0">
+                          <columns>
+                            <TableColumn prefWidth="75.0" text="C1" />
+                            <TableColumn prefWidth="75.0" text="C2" />
+                              <TableColumn prefWidth="75.0" text="C2" />
+                              <TableColumn prefWidth="75.0" text="C2" />
+                              <TableColumn prefWidth="75.0" text="C2" />
+                          </columns>
+                        </TableView>
+                     </children></AnchorPane>
+              </content>
+            </Tab>
+         </tabs>
+      </JFXTabPane>
+      <ImageView fitHeight="125.0" fitWidth="101.0" layoutX="50.0" layoutY="25.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../Resources/Images/FDPortraits/Dragunov.png" />
+         </image>
+      </ImageView>
+      <ComboBox layoutX="35.0" layoutY="161.0" prefHeight="20.0" prefWidth="101.0" />
+      <Button id="button" layoutX="35.0" layoutY="239.0" mnemonicParsing="false" prefHeight="20.0" prefWidth="101.0" text="Button1" />
+      <Button id="button" layoutX="35.0" layoutY="275.0" mnemonicParsing="false" prefHeight="20.0" prefWidth="101.0" text="Button2" />
+      <Button id="button" layoutX="35.0" layoutY="310.0" mnemonicParsing="false" prefHeight="20.0" prefWidth="101.0" text="Button3" />
+   </children>
+</AnchorPane>

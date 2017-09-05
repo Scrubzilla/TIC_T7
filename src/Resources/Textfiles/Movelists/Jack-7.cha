@@ -1,0 +1,1540 @@
+in rage b+1+2
+m
+
+
+-32
+-32
+KND
+KND
+Rage art
+
+1
+h
+14
+13
+-2
+-2
++6
++9
+Normal
+
+1, 1
+h, m
+14,28
+13
+-12
+-12~-11 OC
+KND
+KND
+Normal
+
+1, 2
+h, h
+14,24
+13
+-2
+-2
+KND
+KND
+Tail spin
+
+2
+h
+10
+11
+0
+0
++9
++9
+Normal
+
+2, 1
+h, m
+10,12
+11
+-3
+-3
++3
++3
+Normal
+
+2, 1, 2
+h, m, m
+10,12,20
+11 RC
+-12
+-12~-11
+Launch (JG?)
+Launch (JG?)
+Normal
+
+1+2
+mh
+15,27
+15
+-1
+-
+KND
+KND
+Normal
+
+3+4 or floor brake 3+4
+! (TJ)
+42
+94~98
+-1
+KND
+KND
+KND
+Normal
+
+3+4, 3+4
+! (TJ)
+42
+124~128
+-1
+KND
+KND
+KND
+Normal
+
+3+4, 3+4, 3+4
+! (TJ)
+62
+154~158
+-1
+KND
+KND
+KND
+Normal
+
+3+4, 3+4, 3+4, 3+4
+! (TJ)
+83
+184~188
+-1
+KND
+KND
+KND
+Normal
+
+3+4, 3+4, 3+4, 3+4, 3+4
+! (TJ)
+104
+214~218
+-1
+KND
+KND
+KND
+Normal
+
+f+1
+m
+13
+14~15
+-8
+-8~-7
++3~+4
++3~+4
+Normal
+
+f+1, 2
+m, h
+13,13
+14~15
+-6
+-6
++5
++5
+Normal
+
+f+1, 2, 2
+m, h, m
+13,13,20
+14~15
++6
++6
+KND
+KND
+Normal
+
+f+1, 2, 2*
+m, h, m
+13,13,50
+14~15
+-16
+-16
+KND
+KND
+Normal
+
+f+2
+h
+17
+10
+-9
+-9?
++5
+KND
+Normal
+
+f+3
+m
+17
+20
+-10
+-10
++4
+CS
+Normal
+
+f+3, 1+2
+m, m
+17,22
+20
+-13
+-13~-12 OC
+KND
+KND
+Normal
+
+f+4~1
+!
+80
+65(66~)
+-1
+CS
+CS
+CS
+Normal
+
+f+4~1, 2
+m
+30
+15~16 (66~)
++8
++8~+9
+KND
+KND
+Normal
+
+f+1+2
+m
+22
+15~16
+-19
+-19~-18
+KND
+KND
+Normal
+
+f+3+4 or FC+d/f+3+4
+m (TC)
+28
+21~25 (cs6)
+-12
+-12~-8
+KND
+KND
+Normal
+
+d/f+1
+m
+12
+14~15
+-7
+-7~-6
++2~+3
++5~+6
+Normal
+
+d/f+1, 1
+m, m
+12,20
+14~15
+-10
+-10
++k
++k
+Tail spin
+
+d/f+1, 2
+m, h
+12,10
+14~15
+-12
+-12
+-1
+-1
+Normal
+
+d/f+1, 2, 1
+m, h, h
+12,10,3
+14~15
+-11
+-11
+-3(KND)
+-3
+Normal
+
+d/f+1, 2, 1, 2
+m, h, h, hh
+12,10,3,3,20
+14~15
+-18
+-18
+KND
+KND
+Normal
+
+d/f+2
+m
+13
+15
+-14
+-14
+Launch (JG?)
+Launch (JG?)
+Normal
+
+d/f+2, 1
+m, m
+13,15
+15s
+-6
+-6
++5
++5
+Normal
+
+d/f+2, 1, 2
+m, m, m
+13,15,12
+15s
+-8
+-8~-7
++3~+4
++3~+4
+Normal
+
+d/f+2, 1, 2, 1
+m, m, m, h
+13,15,12,23
+15
+-5
+-5
+KND
+KND
+Tail spin
+
+d/f+2, 1, 2, d/f+1
+m, m, m, m
+13,15,12,15
+15 RC
+-2
+-2~-1
++9~+10
++9~+10
+Normal
+
+d/f+2, 1, 2, d+1
+m, m, m, l (TC)
+13,15,12,8
+15 RC
+-11
+-11~-10
+0~+1
+0~+1
+Normal
+
+d/f+3
+m
+16
+16
+-9
+-9
++2
++2
+Normal
+
+d/f+3, 2
+m, h
+16,20
+16
+-7
+-7
+KND
+KND
+Tail spin
+
+d/f+1+2
+ll
+8,21
+18,30
+-70
+-70
+KND
+KND
+Normal
+
+d/f+1+2 (First hit only)
+l
+8
+18
+-82
+-82
+-63
+-63
+Normal
+
+d/f+3+4
+m
+30
+13
+-22
+-22
+KND
+KND
+Normal
+
+d/f+1+3 (Throw)
+h(Throw)
+25
+23
+-1
+Throw
+Throw
+Throw
+Normal
+
+d/f+1+3
+Sm
+21
+30~48 RG
+-18
+-18~0s
+KND
+KND
+Normal
+
+d+1+2
+m (TC)
+28(,5)
+30
+-18
+-18?
+Launch
+Launch
+Normal
+
+d/b+1
+l
+13
+12 RC
+-12
+-12
++2
++2
+Normal
+
+d/b+1, 1
+l, l
+13,5
+12 RC
+-12
+-12
++2
++2
+Normal
+
+d/b+1, 1, 1
+l, l, l
+13,5,5
+12 RC
+-12
+-12
++2
++2
+Normal
+
+d/b+1, 1, 1, 2
+l, l, l, m
+13,5,5,21
+12 RC
+-14
+-14
+KND
+KND
+Normal
+
+d/b+2
+l (TC)
+24
+22
+-17
+-17?
+0?s
+KND
+Normal
+
+d/b+2*
+l (TC)
+30
+36
+-29
+-29?
+KND
+KND
+Normal
+
+d/b+3
+l(CSK)
+15
+21
+-20
+-20
+-9
+-9
+Normal
+
+d/b+3, 4
+l, l(CSK)
+15,12
+21
+-16
+-16
+-5
+-5
+Normal
+
+d/b+3, 4, 3
+l, l, l(CSK)
+15,12,12
+21
+-20
+-20
+-9
+-9
+Normal
+
+d/b+3, 4, 3, 4
+l, l, l, l(CSK)
+15,12,12,12
+21
+-16
+-16
+-5
+-5
+Normal
+
+d/b+3, 4, 3, 4, 3
+l, l, l, l, l(CSK)
+15,12,12,12,12
+21
+-20
+-20
+-9
+-9
+Normal
+
+d/b+3, 4, 3, 4, 3, 4
+l, l, l, l, l, l(CSK)
+15,12,12,12,12,12
+21
+-16
+-16
+-5
+-5
+Normal
+
+CSK 1+2
+h
+21
+21
++14
++14 GB
+KND
+KND
+Normal
+
+CSK d+1+2
+l(Throw)
+45
+21
+-1
+
+KND
+
+Normal
+
+d/b+4
+l (TC)
+14
+16s
+-13
+-13
+-2
+-2
+Normal
+
+d/b+1+2
+hhhhh
+5,3,3,3,20
+20,31,40, 49,61
+-4
+-4
+CS
+CS
+Normal
+
+b+1
+m
+20
+20?
+-10
+-10
++1
++?
+Normal
+
+b+2
+m
+27
+19
++5
++5
+KND
+KND
+Normal
+
+b+2*
+m
+55
+35
++4
++4
+KND
+KND
+Normal
+
+b+3
+m
+14
+16~17
+-9
+-9~-8
++2~+3
++2~+3
+Normal
+
+b+3, 2
+m, h
+14,13
+16~17
+-6
+-6
+-1
+-1
+Normal
+
+b+3, 2, 2
+m, h, h
+14,13,20
+16~17
+-9
+-9
+KND
+KND
+Normal
+
+b+3, 2, 2*
+m, h, m
+14,13,50
+16~17
++8
++8
+KND
+KND
+Normal
+
+b+4
+m
+12
+16
+-15
+-15
+-4
+-4
+Normal
+
+b+4, 4
+m, m
+12,21
+16
+-8
+-8~-7 OC
+KND
+KND
+Normal
+
+u/b+1+2
+h
+25
+19~20
+-6
+-6~-5?
+KND
+KND
+Homing, Power crush, Tail spin
+
+u+1+2
+h
+20
+19a
+-15
+-15
+Launch(JG?)
+Launch(JG?)
+Normal
+
+u/f+1
+( (Sky))!
+27
+17
+-1
+KND
+KND
+KND
+Normal
+
+u/f+1*
+( (Sky))!
+50
+32
+-1
+KND
+KND
+KND
+Normal
+
+u/b or u or u/f+2
+m (TJ)
+25
+24~25
++2
++2~+3s
++7~+8s
+KND
+Normal
+
+u/b or u or u/f, n+2
+m (TJ)
+30
+22~24 (32~)
+-1
+-1~+1 OC
++10~+12 OC
++10~+12 OC
+Normal
+
+f, F+1
+m
+30
+15~16 (16~)
+-6
+-6~-5?
+KND
+KND
+Normal
+
+f, F+2
+m
+21
+18~19 (19~)
+-16
+-16~-15
+Launch(JG?)
+Launch(JG?)
+Normal
+
+f, F+2*
+m
+30(,5)
+34(35~)
+-18
+-18
+Launch
+Launch
+Normal
+
+f, F+3
+m
+20
+26~27 (27~)
++4
++4~+5
+KND
+KND
+Normal
+
+f, F+4
+m
+35
+16~21 (17~)
+-9
+-9~-4
+KND
+KND
+Normal
+
+f, F+1+2
+m
+20
+15(16~)
+-15
+-15
+CS
+CS
+Normal
+
+f, F+1+2, 2
+m, m
+20,24
+15(16~) RC
+-11
+-11,12?
+KND
+KND
+Normal
+
+f, F+1+2, 1+2
+m, l (TC)
+20,21
+15(16~) RC
+-19
+-19
+KND
+KND
+Normal
+
+f, F+3+4
+m
+25
+21~30 (22~)
+-82
+-82~-73
+KND
+KND
+Normal
+
+f, F+3+4 (Second part)
+l (TC)
+25
+31~37 (32~)
+-110
+-110~-104
+KND
+KND
+Normal
+
+b, d/b, d, d/f+1
+l (TC)
+30
+23~25s (24?~)
+-38
+-38~-36
+KND
+KND
+Homing
+
+in rage b, d/b, d, d/f+1, 2
+l (TC), m
+20,35
+23~25 (24?~)
+-4
+-4?
+KND?
+KND?
+Rage art
+
+b, d/b, d, d/f+2
+m
+42
+22s(23?~)
+-11
+-11?
+KND
+KND
+Normal
+
+HCF
+(Special)
+
+22(23?~)
+-1
+
+
+
+Normal
+
+HCF, 1 (one spin)
+m
+30
+17(43~)
++21
++21 GB
+KND
+KND
+Normal
+
+hcf+1 (two spins)
+!
+35
+17(68~)
+-1
+KND
+KND
+KND
+Normal
+
+hcf+1 (three spins)
+!
+45
+17(93~)
+-1
+KND
+KND
+KND
+Normal
+
+hcf+1 (four spins)
+!
+55
+17(118~)
+-1
+KND
+KND
+KND
+Normal
+
+hcf+1 (five spins)
+!
+199
+17(143~)
+-1
+KND
+KND
+KND
+Normal
+
+hcf(Six spins)
+!
+1
+17(143~)
+-1
+Launch(JG?)
+Launch(JG?)
+Launch(JG?)
+Normal
+
+HCF, d/f+1
+m
+22
+29~32? (41~)
+-17
+-17~-15
+Launch(JG?)
+Launch(JG?)
+Normal
+
+hcf, d/f+1 (d/b, d/f, f, d/f+1)
+m
+25
+20~22? (21?~)
+-17
+-17~-15
+Launch(JG?)
+Launch(JG?)
+Normal
+
+f, f, f+2 or 2+4+2
+m
+25
+25(28~)
++7
++7
++10
++10
+Normal
+
+WS+1
+m
+14
+15
+-12
+-12?
+Launch (JG?)
+Launch (JG?)
+Normal
+
+WS+2
+m
+10
+14
+-7
+-7
++4
++4
+Normal
+
+WS+2, 1
+m, m
+10,17?
+14
+-14
+-14?s
+KND
+KND
+Normal
+
+WS+3
+m
+16
+16
+-9
+-9
++2
++2
+Normal
+
+WS+3, 2
+m, h
+16,20
+16
+-7
+-7
+KND
+KND
+Tail spin
+
+WS+1+2
+m
+14
+20
+-17
+-17
+Launch (JG?)
+Launch (JG?)
+Normal
+
+WS+1+2, 1+2
+m, m
+14,15
+20
+-16
+-16~-15
+KND
+KND
+Normal
+
+WS+1+2, 1+2, 1+2
+m, m, l (TC)
+14,15,20
+20
+-23
+-23
+KND
+KND
+Normal
+
+WS+f+1
+m
+15
+17~18s
+-6
+-6~-5
++5~+6
++5~+6
+Normal
+
+WS+f+1, 2
+m, m
+15,12
+17~18s
+-8
+-8~-7
++3~+4
++3~+4
+Normal
+
+WS+f+1, 2, 1
+m, m, h
+15,12,23
+17~18
+-5
+-5
+KND
+KND
+Tail spin
+
+WS+f+1, 2, d/f+1
+m, m, m
+15,12,15
+17~18s
+-2
+-2~-1
++9~+10 (Launch (JG?))
++9~+10
+Normal
+
+WS+f+1, 2, d+1
+m, m, l (TC)
+15,12,8
+17~18s
+-11
+-11~-10
+0~+1
+0~+1
+Normal
+
+FC+d+1
+l (TC)
+10
+19~21 RC
+-8
+-8~-6
++3~+5
++3~+5
+Normal
+
+FC+d+1, 1
+l (TC), l (TC)
+10,8
+19~21 RC
+-2
+-2~-1
++7~+8
++9~+10
+Normal
+
+FC+d+1, 1, 1
+l (TC), l (TC), m
+10,8,12
+19~21 RC
+-12
+-12~-11
+-1~0
+-1~0
+Normal
+
+FC+d+1, 1, 1, 2
+l (TC), l (TC), m, m
+10,8,12,12
+19~21 RC
+-8
+-8~-7
++3~+4
++3~+4
+Normal
+
+FC+d+1, 1, 1, 2, 1
+l (TC), l (TC), m, m, h
+10,8,12,12,23
+19~21
+-5
+-5
+KND
+KND
+Tail spin
+
+FC+d+1, 1, 1, 2, d/f+1
+l (TC), l (TC), m, m, m
+10,8,12,12,15
+19~21s
+-2
+-2~-1
++9~+10
++9~+10
+Normal
+
+FC+d+1, 1, 1, 2, d+1
+l (TC), l (TC), m, m, l (TC)
+10,8,12,12,8
+19~21s
+-11
+-11~-10
+0~+1
+0~+1
+Normal
+
+FC+d+1, 2
+l (TC), m
+10,24
+19~21s
+-14
+-14?
+KND
+KND
+Normal
+
+FC+d/f+1
+m
+5
+25
+-21
+-21
+-11 OC
+-11 OC
+Normal
+
+FC+d/f+1, 2
+m, m
+5,8
+25
+-21
+-21
+-11 OC
+-11 OC
+Normal
+
+FC+d/f+1, 2, 1
+m, m, m
+5,8,11
+25
+-11
+-11
+CS
+CS
+Normal
+
+FC+d/f+1, 2, 1, 1
+m, m, m, h
+5,8,11,30
+25
++20
++20
++13~+14OB
++13~+14OB
+Normal
+
+FC+d/f+2
+m
+12
+18~19 RC
+-13
+-13~-12
+-2~-1
+-2~-1
+Normal
+
+FC+d/f+2, D/F+1
+m, m
+12,10
+18~19 RC
+-4
+-4~-3
++7~+8
++7~+8
+Normal
+
+FC+d/f+2, D/F+1, 2
+m, m, m
+12,10,10
+18~19s
+-8
+-8
++3(Launch (JG?))
++3
+Normal
+
+FC+d/f+2, 1
+m, h
+12,23
+18~19
+-5
+-5
+KND
+KND
+Tail spin
+
+FC+d/f+2, d+1
+m, l (TC)
+12,8
+18~19s
+-11
+-11~-10
+0~+1
+0~+1
+Normal
+
+FC+d/f+1+2
+l (TC)
+21
+24s
+-18
+-18
+KND?
+KND?
+Normal
+
+FC+d/f+1+2, 1+2
+l (TC), m
+21,23
+24
+-1
+-
+Launch
+Launch
+Normal
+
+FC+d/b+1
+l
+15
+12 RC
+-9
+-9
++5
++9 OC
+Normal
+
+FC+d/b+1, 1
+l, l
+15,10
+12 RC
+-2
+-2
++9
++9
+Normal
+
+FC+d/b+1, 1, 1
+l, l, l
+15,10,10
+12 RC
+-5
+-5
++9
++9
+Normal
+
+FC+d/b+1, 1, 1, 2
+l, l, l, m
+15,10,10,30
+12 RC
+-14
+-14
+KND
+KND
+Normal
+
+SS+1
+m
+23
+32~33 (41~)
++3
++3~+4 OC
+KND
+KND
+Normal
+
+SS+2
+h
+25
+17(26~)
++9
++9
+KND
+KND
+Normal
+
+d/b or d+3+4 (to SIT)
+(SIT)
+
+Air
+-1
+
+
+
+Normal
+
+SIT f or b
+(Special)
+
+Air
+-1
+
+
+
+Normal
+
+u/f+3+4 (After stance ends)
+m (TJ)
+23
+34~38
+-39
+-39~-35 OC
+KND
+KND
+Normal
+
+u/f+3+4
+m (TJ), (SIT)
+23
+34~38
++13
++13~+17 OC
+KND
+KND
+Normal
+
+d+3+4, 3+4 (After stance ends)
+(Special), m
+35
+70~73
+-39
+-39~-36 OC
+KND
+KND
+Normal
+
+d+3+4, 3+4
+(Special), m, (SIT)
+35
+70~73
++13
++13~+16 OC
+KND
+KND
+Normal
+
+u/f+3+4, 3+4 (After stance ends)
+m, m
+23,35
+70~73
+-39
+-39~-36 OC
+KND
+KND
+Normal
+
+u/f+3+4, 3+4
+m, m, (SIT)
+23,35
+70~73
++13
++13~+16 OC
+KND
+KND
+Normal
+
+Grounded face up d+1+2 (After stance ends)
+m
+19
+29~30
+-21
+-21~-20
+KND
+KND
+Normal
+
+Grounded face up d+1+2
+m, (SIT)
+19
+29~30
++15
++15~+16
+KND
+KND
+Normal
+
+SIT 1+2
+m
+21
+24sa
+-49
+-49
+CS
+CS
+Normal
+
+SIT 1
+l (TC)
+10
+19( Air)
+-48
+-48
+-37
+-37
+Normal
+
+SIT 1, 2
+l (TC), l (TC)
+10,10
+19()( Air)
+-47
+-47
+-36
+-36
+Normal
+
+SIT 1, 2, 1
+l (TC), l (TC), l (TC)
+10,10,10
+19()()( Air)
+-43
+-43
+-32
+-32
+Normal
+
+SIT 1, 2, 1, 2
+l (TC), l (TC), l (TC), l (TC)
+10,10,10,10
+19()()()( Air)
+-47
+-47
+-36
+-36
+Normal
+
+SIT 2
+l (TC)
+10
+19( Air)
+-45
+-45
+-34
+-34
+Normal
+
+SIT 2, 1
+l (TC), l (TC)
+10,10
+19()( Air)
+-42
+-42
+-31
+-31
+Normal
+
+SIT 2, 1, 2
+l (TC), l (TC), l (TC)
+10,10,10
+19()()( Air)
+-47
+-47
+-36
+-36
+Normal
+
+SIT 2, 1, 2, 1
+l (TC), l (TC), l (TC), l (TC)
+10,10,10,10
+19()()()( Air)
+-43
+-43
+-32
+-32
+Normal
+

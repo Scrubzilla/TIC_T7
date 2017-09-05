@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="background" prefHeight="690.0" prefWidth="1350.0" stylesheets="@Layout.css" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="tic_t7.SelectedCharacterScreenController">
+   <children>
+      <Button id="programLegendButtonNormal" layoutX="1273.0" layoutY="3.0" mnemonicParsing="false" onAction="#openPopUpWindow" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="36.0" prefWidth="36.0" text="Legend" textFill="#d9d9d900">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font></Button>
+      <TableView fx:id="displayWindow" layoutX="135.0" layoutY="84.0" prefHeight="549.0" prefWidth="1196.0">
+        <columns>
+          <TableColumn fx:id="columnName" editable="false" prefWidth="123.0" sortable="false" text="Name" visible="false" />
+          <TableColumn fx:id="columnCommand" editable="false" prefWidth="232.0" sortable="false" text="Command" visible="false" />
+            <TableColumn fx:id="columnHitLevel" editable="false" prefWidth="174.0" sortable="false" text="Hit level" visible="false" />
+            <TableColumn fx:id="columnDamage" editable="false" prefWidth="162.0" sortable="false" text="Damage" visible="false" />
+            <TableColumn fx:id="columnStartUpFrame" editable="false" prefWidth="156.0" sortable="false" text="Start up frame" visible="false" />
+            <TableColumn fx:id="columnBlockFrame" editable="false" prefWidth="141.0" sortable="false" text="Block frame" visible="false" />
+            <TableColumn fx:id="columnHitFrame" editable="false" minWidth="0.0" prefWidth="132.0" sortable="false" text="Hit frame" visible="false" />
+            <TableColumn fx:id="columnCounterHitFrame" editable="false" prefWidth="166.0" sortable="false" text="Counter hit frame" visible="false" />
+            <TableColumn fx:id="columnLauncher" editable="false" prefWidth="153.0" sortable="false" text="Launcher" />
+            <TableColumn fx:id="columnFollowUp" editable="false" minWidth="0.0" prefWidth="322.0" sortable="false" text="Combo" />
+            <TableColumn fx:id="columnWall" editable="false" prefWidth="122.0" sortable="false" text="Wall property" />
+            <TableColumn fx:id="columnComboDamage" editable="false" prefWidth="139.0" sortable="false" text="Combo damage" />
+            <TableColumn fx:id="columnComment" editable="false" prefWidth="427.0" sortable="false" text="Comment" />
+        </columns>
+      </TableView>
+      <ImageView fx:id="pOnePortrait" fitHeight="125.0" fitWidth="101.0" layoutX="15.0" layoutY="15.0" pickOnBounds="true" preserveRatio="true" />
+      <ComboBox fx:id="playerList" layoutX="15.0" layoutY="141.0" onAction="#refreshPlayer" prefHeight="20.0" prefWidth="101.0" />
+      <ComboBox fx:id="opponentList" layoutX="15.0" layoutY="478.0" onAction="#refreshOpponent" prefHeight="20.0" prefWidth="101.0" />
+      <ImageView fx:id="pTwoPortrait" fitHeight="125.0" fitWidth="101.0" layoutX="15.0" layoutY="351.0" pickOnBounds="true" preserveRatio="true" />
+      <Button id="button" fx:id="frameDataButton" layoutX="15.0" layoutY="221.0" mnemonicParsing="false" onAction="#buttonClick" prefHeight="20.0" prefWidth="101.0" text="Frame data" />
+      <Button id="button" fx:id="punishersButton" layoutX="15.0" layoutY="251.0" mnemonicParsing="false" onAction="#buttonClick" prefHeight="20.0" prefWidth="101.0" text="Punishers" />
+      <Button id="button" fx:id="jugglesButton" layoutX="15.0" layoutY="281.0" mnemonicParsing="false" onAction="#buttonClick" prefHeight="20.0" prefWidth="101.0" text="Juggles" />
+      <Label layoutX="18.0" layoutY="331.0" text="Opponent:" textFill="#d9d9d9">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <CheckBox fx:id="normalMovesBox" layoutX="140.0" layoutY="15.0" mnemonicParsing="false" onAction="#displayMoveList" selected="true" text="Normal" textFill="#d9d9d9" />
+      <CheckBox fx:id="pokesBox" layoutX="241.0" layoutY="15.0" mnemonicParsing="false" onAction="#displayMoveList" selected="true" text="Poke" textFill="#d9d9d9" />
+      <CheckBox fx:id="goodMovesBox" layoutX="327.0" layoutY="15.0" mnemonicParsing="false" onAction="#displayMoveList" selected="true" text="Good move" textFill="#d9d9d9" />
+      <CheckBox fx:id="launchersBox" layoutX="455.0" layoutY="15.0" mnemonicParsing="false" onAction="#displayMoveList" selected="true" text="Launcher" textFill="#d9d9d9" />
+      <CheckBox fx:id="tailspinMovesBox" layoutX="569.0" layoutY="15.0" mnemonicParsing="false" onAction="#displayMoveList" selected="true" text="Tail spin" textFill="#d9d9d9" />
+      <CheckBox fx:id="grabsBox" layoutX="677.0" layoutY="15.0" mnemonicParsing="false" onAction="#displayMoveList" selected="true" text="Grab" textFill="#d9d9d9" />
+      <ImageView fitHeight="47.0" fitWidth="429.0" layoutX="460.0" layoutY="643.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../Resources/Images/NavigationBar/NavigationBarBackground.png" />
+         </image>
+      </ImageView>
+      <Button id="navigationBarBackwardsButtonNormal" layoutX="551.0" layoutY="652.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="37.0" prefWidth="36.0" text="Backwards" textFill="TRANSPARENT" />
+      <Button id="navigationBarHomeButtonNormal" layoutX="657.0" layoutY="652.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="37.0" prefWidth="36.0" text="Home" textFill="TRANSPARENT" />
+      <Button id="navigationBarForwardButtonDisabled" disable="true" layoutX="763.0" layoutY="652.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="37.0" prefWidth="36.0" text="Forward" textFill="TRANSPARENT" />
+      <Label fx:id="punishersLabel" layoutX="140.0" layoutY="15.0" textFill="#d9d9d9">
+         <font>
+            <Font name="Calibri" size="20.0" />
+         </font>
+      </Label>
+      <ComboBox fx:id="frameBox" layoutX="15.0" layoutY="504.0" onAction="#updateSelectedFrame" prefHeight="20.0" prefWidth="101.0" />
+      <CheckBox fx:id="specFrameBox" layoutX="15.0" layoutY="534.0" mnemonicParsing="false" onAction="#displayOpponentMoveList" text="Specific frame" />
+      <Label fx:id="punishersForFrameLabel" layoutX="425.0" layoutY="15.0" textFill="#d9d9d9">
+         <font>
+            <Font name="Calibri" size="20.0" />
+         </font>
+      </Label>
+      <CheckBox fx:id="isPlusOnBlock" layoutX="15.0" layoutY="171.0" mnemonicParsing="false" onAction="#displayMoveList" text="Is + (on block)" />
+      <CheckBox fx:id="wallCombosBox" layoutX="140.0" layoutY="15.0" mnemonicParsing="false" onAction="#displayJuggles" selected="true" text="W! combos" textFill="#d9d9d9" visible="false" />
+      <CheckBox fx:id="nonWallCombosBox" layoutX="289.0" layoutY="15.0" mnemonicParsing="false" onAction="#displayJuggles" selected="true" text="Non-W! combos" textFill="#d9d9d9" visible="false" />
+      <CheckBox fx:id="powerCrushBox" layoutX="764.0" layoutY="15.0" mnemonicParsing="false" onAction="#displayMoveList" selected="true" text="Power crush" textFill="#d9d9d9" />
+      <CheckBox fx:id="rageDriveBox" layoutX="897.0" layoutY="15.0" mnemonicParsing="false" onAction="#displayMoveList" selected="true" text="Rage drive" textFill="#d9d9d9" />
+      <CheckBox fx:id="rageArtBox" layoutX="1020.0" layoutY="15.0" mnemonicParsing="false" onAction="#displayMoveList" selected="true" text="Rage art" textFill="#d9d9d9" />
+      <Button id="programHelpButtonNormal" layoutX="1309.0" layoutY="3.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="36.0" prefWidth="36.0" text="Help" textFill="#d9d9d900">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Button>
+      <AnchorPane fx:id="blockInfoScreen" prefHeight="690.0" prefWidth="1350.0" style="-fx-background-color: rgba(10, 10, 10, .9);" visible="false">
+         <children>
+            <Pane id="pausePane" layoutX="331.0" layoutY="67.0" prefHeight="557.0" prefWidth="688.0">
+               <children>
+                  <Label layoutX="319.0" layoutY="19.0" text="Help">
+                     <font>
+                        <Font name="Arial Bold" size="24.0" />
+                     </font>
+                  </Label>
+                  <Button id="programXButtonNormal" layoutX="652.0" layoutY="7.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="25.0" prefWidth="25.0" text="X" textFill="transparent">
+                     <font>
+                        <Font name="Arial Bold" size="10.0" />
+                     </font>
+                  </Button>
+                  <ScrollPane layoutX="10.0" layoutY="50.0" prefHeight="495.0" prefWidth="666.0">
+                     <content>
+                        <Label prefWidth="645.0" text="This section is used for multiple things. The things it is used for is the following:&#10;*See the frame data of the selected character's movelist.&#10;*See what type a move is for the selected character, for example it could be poke or launcher, this can be useful while studying for or against a character.&#10;*You can easily set a filter to only see your moves that are + frames on block.&#10;*You can see the selected character's punishers for each frame (-10f and less)&#10;*You can select an opponent and see all of their moves that are -10 or less punishable on block.&#10;*You can filter how punishable your opponents moves should be for you to see it, for example set it to -15 to see only launch punishable moves. &#10;*You can easily set a filter to only see a specific - frame moves of your opponent.&#10;*You can see stored juggles that you have added in the &quot;Notes&quot; section.&#10;*You can see the Legend for all of the notations if you press the &quot;L&quot; in the top right corner.&#10;*You can easily switch between characters by pressing the character's name.&#10;&#10;You will see your selected character in the top left corner as well as a list of the rest of the characters under the portrait. This list can be used to easily switch character to see another character's movelist.&#10;&#10;When the &quot;Frame Data&quot; button is selected, you will see a table with all of the frame data for all of your moves. You can filter what moves that you should see by checking/unchecking the different checkboxes above.&#10;&#10;When the &quot;Punishers&quot; button is selected, you will see all of your punishers for the selected -frame above the table. If you do not have an opponent selected it will tell you to select an opponent to see more information.&#10;&#10;To select an opponent, you press the field that is under the second portrait (under the buttons) and choose the opponent that you want to look up.&#10;&#10;Under the opponent's name field, you will see a field that says &quot;-10&quot;, this is the field that sets the -frame for what punishers to show as well as how punishable your opponents move should be to show up in the list.&#10;&#10;When an opponent then is selected, all of that opponent character's moves that are equal to or less than the selected -frame will be displayed.&#10;&#10;When the &quot;Juggles&quot; button is selected, you will be able to see thje combos that you have entered for the selected character in the &quot;Notes&quot; section. This can be used to easily see combos while playing. It can also be filtered between wall and non-wall combos.&#10;&#10;The &quot;Is + (on block)&quot; checkbox as well as the &quot;Specific frame&quot; checkbox is used to filter what moves to be shown in the different lists. The &quot;Is + (on block) checkbox will filter your character's movelist to only show moves that are 0 or + on block. The &quot;specific frame&quot; checkbox will filter the opponent character's movelist to only show moves that are the selected negative frame on block." wrapText="true" />
+                     </content>
+                  </ScrollPane>
+               </children>
+            </Pane>
+         </children>
+      </AnchorPane>
+      <CheckBox fx:id="homingBox" layoutX="1130.0" layoutY="15.0" mnemonicParsing="false" onAction="#displayMoveList" selected="true" text="Homing" textFill="#d9d9d9" />
+   </children>
+</AnchorPane>

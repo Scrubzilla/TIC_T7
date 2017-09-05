@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="background" prefHeight="690.0" prefWidth="1350.0" stylesheets="@Layout.css" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="tic_t7.CharacterSelectionController">
+   <children>
+      <Button id="characterAkumaNormal" layoutX="15.0" layoutY="10.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Akuma" textFill="TRANSPARENT" />
+      <Button id="characterAlisaNormal" layoutX="147.0" layoutY="10.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Alisa" textFill="TRANSPARENT" />
+      <Button id="characterAsukaNormal" layoutX="279.0" layoutY="10.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Asuka" textFill="TRANSPARENT" />
+      <Button id="characterBobNormal" layoutX="411.0" layoutY="10.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Bob" textFill="TRANSPARENT" />
+      <Button id="characterBryanNormal" layoutX="543.0" layoutY="10.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Bryan" textFill="TRANSPARENT" />
+      <Button id="characterClaudioNormal" layoutX="675.0" layoutY="10.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Claudio" textFill="TRANSPARENT" />
+      <Button id="characterDevilJinNormal" layoutX="807.0" layoutY="10.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="DevilJin" textFill="TRANSPARENT" />
+      <Button id="characterDragunovNormal" layoutX="939.0" layoutY="10.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Dragunov" textFill="TRANSPARENT" />
+      <Button id="characterEddyNormal" layoutX="1071.0" layoutY="10.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Eddy" textFill="TRANSPARENT" />
+      <Button id="characterElizaNormal" layoutX="1203.0" layoutY="10.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Eliza" textFill="TRANSPARENT" />
+      <Button id="characterFengNormal" layoutX="15.0" layoutY="170.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Feng" textFill="TRANSPARENT" />
+      <Button id="characterGigasNormal" layoutX="147.0" layoutY="170.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Gigas" textFill="TRANSPARENT" />
+      <Button id="characterHeihachiNormal" layoutX="279.0" layoutY="170.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Heihachi" textFill="TRANSPARENT" />
+      <Button id="characterHwoarangNormal" layoutX="411.0" layoutY="170.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Hwoarang" textFill="TRANSPARENT" />
+      <Button id="characterJack7Normal" layoutX="543.0" layoutY="170.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Jack7" textFill="TRANSPARENT" />
+      <Button id="characterJinNormal" layoutX="675.0" layoutY="170.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Jin" textFill="TRANSPARENT" />
+      <Button id="characterJosieNormal" layoutX="807.0" layoutY="170.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Josie" textFill="TRANSPARENT" />
+      <Button id="characterKatarinaNormal" layoutX="939.0" layoutY="170.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Katarina" textFill="TRANSPARENT" />
+      <Button id="characterKazumiNormal" layoutX="1071.0" layoutY="170.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Kazumi" textFill="TRANSPARENT" />
+      <Button id="characterKazuyaNormal" layoutX="1203.0" layoutY="170.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Kazuya" textFill="TRANSPARENT" />
+      <Button id="characterKingNormal" layoutX="15.0" layoutY="330.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="King" textFill="TRANSPARENT" />
+      <Button id="characterKumaNormal" layoutX="147.0" layoutY="330.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Kuma" textFill="TRANSPARENT" />
+      <Button id="characterLarsNormal" layoutX="279.0" layoutY="330.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Lars" textFill="TRANSPARENT" />
+      <Button id="characterLawNormal" layoutX="411.0" layoutY="330.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Law" textFill="TRANSPARENT" />
+      <Button id="characterLeeNormal" layoutX="543.0" layoutY="330.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Lee" textFill="TRANSPARENT" />
+      <Button id="characterLeoNormal" layoutX="675.0" layoutY="330.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Leo" textFill="TRANSPARENT" />
+      <Button id="characterLiliNormal" layoutX="807.0" layoutY="330.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Lili" textFill="TRANSPARENT" />
+      <Button id="characterLuckyChloeNormal" layoutX="939.0" layoutY="330.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="LuckyChloe" textFill="TRANSPARENT" />
+      <Button id="characterMasterRavenNormal" layoutX="1071.0" layoutY="330.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="MasterRaven" textFill="TRANSPARENT" />
+      <Button id="characterMiguelNormal" layoutX="1203.0" layoutY="330.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Miguel" textFill="TRANSPARENT" />
+      <Button id="characterNinaNormal" layoutX="15.0" layoutY="489.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Nina" textFill="TRANSPARENT" />
+      <Button id="characterPandaNormal" layoutX="147.0" layoutY="489.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Panda" textFill="TRANSPARENT" />
+      <Button id="characterPaulNormal" layoutX="279.0" layoutY="489.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Paul" textFill="TRANSPARENT" />
+      <Button id="characterShaheenNormal" layoutX="411.0" layoutY="489.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Shaheen" textFill="TRANSPARENT" />
+      <Button id="characterSteveNormal" layoutX="543.0" layoutY="489.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Steve" textFill="TRANSPARENT" />
+      <Button id="characterXiaoyuNormal" layoutX="675.0" layoutY="489.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Xiaoyu" textFill="TRANSPARENT" />
+      <Button id="characterYoshimitsuNormal" layoutX="807.0" layoutY="489.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Yoshimitsu" textFill="TRANSPARENT" />
+      <Button id="characterUnknownNormal" layoutX="939.0" layoutY="489.0" mnemonicParsing="false" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Unknown" textFill="TRANSPARENT" />
+      <Button id="characterUnknownNormal" layoutX="1071.0" layoutY="489.0" mnemonicParsing="false" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Unknown" textFill="TRANSPARENT" />
+      <Button id="characterUnknownNormal" layoutX="1203.0" layoutY="489.0" mnemonicParsing="false" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="154.0" prefWidth="127.0" text="Unknown" textFill="TRANSPARENT" />
+      <ImageView fitHeight="47.0" fitWidth="429.0" layoutX="460.0" layoutY="643.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../Resources/Images/NavigationBar/NavigationBarBackground.png" />
+         </image>
+      </ImageView>
+      <Button id="navigationBarBackwardsButtonNormal" layoutX="551.0" layoutY="652.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="37.0" prefWidth="36.0" text="Backwards" textFill="TRANSPARENT" />
+      <Button id="navigationBarHomeButtonNormal" layoutX="657.0" layoutY="652.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="37.0" prefWidth="36.0" text="Home" textFill="TRANSPARENT" />
+      <Button id="navigationBarForwardButtonNormal" fx:id="navigationForwardButton" layoutX="763.0" layoutY="652.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="37.0" prefWidth="36.0" text="Forward" textFill="TRANSPARENT" />
+   </children>
+</AnchorPane>

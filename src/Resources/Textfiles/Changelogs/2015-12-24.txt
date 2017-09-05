@@ -1,0 +1,24 @@
+Date: 2015-12-24
+Version 0.0.2
+
+Additions:
+-Guides::
+*Section: Ranking has been added.
+
+-Main Menu:
+*Copywrite/date/version number has been added in right-bottom corner.
+
+
+Changes:
+-Data:
+*Moved "Frame Data" to "Guides".
+*This section has been removed.
+
+-User interface:
+*Adjusted all menu icons to have a lower spacing between eachother.
+
+-Guides:
+*Removed the sections: "Movement", "Size Data", "Legends". 
+
+-Main menu:
+*Removed the "Data" section.

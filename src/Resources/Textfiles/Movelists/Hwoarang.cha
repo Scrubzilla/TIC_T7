@@ -1,0 +1,1940 @@
+in rage LFS or RFS d+3+4
+m
+55
+
+-7
+-7
+KND
+KND
+Rage art
+
+in rage d+3+4
+lm
+7,10
+12,28~29
+-4
+-4~-3
+0~+1
+0~+1
+Rage art
+
+in rage d+3+4, 4
+lm, m (TJ)(RFF)
+7,10,30
+12,28~29
++7
++7
+KND
+KND
+Rage art
+
+in rage u/f+3, 4, 3+4
+m (TJ), m, hh
+16,12,15,20
+12,28~29
++2
++2~+3
+KND
+KND
+Normal
+
+in rage LFS u/f+3, 4, 3+4
+m (TJ), m, hh
+16,12,15,20
+12,28~29
++2
++2~+3
+KND
+KND
+Normal
+
+1
+h
+7
+10
++1
++1
++8
++8
+Normal
+
+1, 1
+h, h
+7,8
+10
+-2
+-2
++9
++9
+Normal
+
+1, 1, 3
+h, h, l
+7,8,10
+10
+-12
+-12
+-1?
+-1?
+Normal
+
+1, 1, 3, 3
+h, h, l, h
+7,8,10,14
+10
+-14
+-14
+-3
+-3
+Normal
+
+1, 2
+h, h
+7,10
+10
+-1
+-1
++7
++8
+Normal
+
+1, 2, 3
+h, h, (Special)
+7,10
+10
++3
++3
++11 GB
++12
+Normal
+
+1, 2, 4
+h, h, (Special)
+7,10
+10
++3
++3
++11 GB
++12
+Normal
+
+1, 2, f+3
+h, h, m
+7,10,14
+10
+-8
+-8
++3
++3
+Normal
+
+1, 2, f+4 (Close)
+h, h, h (TJ)
+7,10,34
+10
++8
++8~+9
+KND
+KND
+Normal
+
+1, 2, f+4 (Far)
+h, h, h (TJ)
+7,10,23
+10
+-11
+-11~-10
+KND
+KND
+Normal
+
+2
+h
+9
+10
+0
+0
++8
++9
+Normal
+
+2, 3
+h, (LFS)
+9
+10
++3
++3
++11 GB
++12
+Normal
+
+2, 4
+h, (RFS)
+9
+10
++3
++3
++11 GB
++12
+Normal
+
+2, f+3
+h, m
+9,14
+10
+-8
+-8
++3
++3
+Normal
+
+2, f+4 (Close)
+h, h (TJ)
+9,34
+10
++8
++8~+9
+KND
+KND
+Normal
+
+2, f+4 (Far)
+h, h (TJ)
+9,23
+10
+-11
+-11~-10
+KND
+KND
+Normal
+
+3
+h
+15
+14
+-7
+-7
++4
++4
+Normal
+
+3, 3
+h, m
+15,12
+14
+-13
+-13
+-7
+-2
+Normal
+
+3, 3, F
+h, m, (LFS)
+15,12
+14
++2
++2
++8
++13
+Normal
+
+3, 3, 3
+h, m, m
+15,12,15
+14
+-14
+-14
+KND
+KND
+Normal
+
+3, 3, 4
+h, m, h, (RFS)
+15,12,15
+14
++9
++9
++20 GB
++20
+Normal
+
+3, 3, d/f or f+4
+h, m, h
+15,12,25
+14
+-1
+-1~0y
+KND
+KND
+Normal
+
+3~4
+mm (TJ)
+11,21
+22,29 (22)
+-3
+-3
+KND
+KND
+Normal
+
+4
+h
+14
+11
+-6
+-6
++
++
+Normal
+
+4, 3
+h, m(LFF)
+14,12
+11
+-6
+-6
++5
++5
+Normal
+
+4, 3, f (Cancel)
+h, (LFS)
+14
+11
+-1
+-
++
++
+Normal
+
+4, 4
+h, h, (RFS)
+14,10
+11
+-1
+-
++
++
+Normal
+
+4, f+4
+h, h(RFF)
+14,10
+11
+-5
+-5
++6
++6
+Normal
+
+4, 4, 3
+h, h, m(RFF)
+14,10,20
+11
+-15
+-15~-9s
+KND
+KND
+Normal
+
+4, 4, 4
+h, h, h, (RFS)
+14,10,10
+11
+-1
+-1
++10
++10
+Normal
+
+4, 4, f+4
+h, h, h(RFF)
+14,10,25
+11
+-6
+-6
++5
++5
+Normal
+
+4, 4, 4, 4
+h, h, h, h(RFF)
+14,10,10,20
+11
++2
++2
+KND
+KND
+Normal
+
+4, 4, 4, 3
+h, h, h, m
+14,10,10,20
+11
+-15
+-15~-9s
+KND
+KND
+Normal
+
+1+2
+(RFF)
+b
+11
+-1
+
+
+
+Normal
+
+3+4
+(RFF)
+
+11
+-1
+
+
+
+Normal
+
+f+2
+m(RFF)
+15
+16
+-2
+-2
++9
++9
+Normal
+
+f+3
+(Special)
+
+16
+-1
+
+
+
+Normal
+
+f+3~n+3
+m
+25
+20(20~)
+-16
+-16
+KND
+KND
+Normal
+
+f, n+4
+(Special)
+
+20(20~)
+-1
+
+
+
+Normal
+
+f+4
+h, (RFS)
+21
+17~19
++9
++9~+
++20~+g
++20~+g
+Normal
+
+f+1+2
+m
+17
+15
+-9
+-9
++
+hKZD
+Normal
+
+d/f+1
+m
+10
+13
+0
+0
++7
++7
+Normal
+
+d/f+2
+m
+13
+15
+-7
+-7
+Launch (JG?)(+4a)
+Launch (JG?)
+Normal
+
+d/f+3
+m
+17
+22~23
+-12
+-12~-11
++1~+2
+CS
+Normal
+
+d/f+3, 4
+m, m
+17,23
+22~23
+-14
+-14
+KND
+KND
+Normal
+
+d/f+3, f (Cancel)
+(LFS)
+
+22~23
+-1
+
+
+
+Normal
+
+d/f+4
+m(RFF)
+20
+16~17
+-8
+-8~-7
++8~+9
+KND
+Homing, Tail spin
+
+d/f+1+2
+m
+12
+13
+-3
+-3
++8
++8
+Normal
+
+d/f+3+4
+m(, (Sky)(throw))
+8(,6,15)
+15~16
+-11
+-11~-10
+0~+1
+0~+1
+Normal
+
+d+3
+l
+7
+17
+-13
+-13
+-2
+-2
+Normal
+
+d+3, 4
+l, h, (RFS)
+7,10
+17
++8
++8~+10
++14~+16 GB
++19~+21
+Normal
+
+d+4
+l (TC)
+7
+19s
+-17
+-17
+-6
+-6
+Normal
+
+d+4, 4
+l (TC), h
+7,22
+19
+-8
+-8
+Launch (JG?)
+Launch (JG?)
+Normal
+
+d/b+3
+l (TC)
+12
+19s
+-13
+-13
+0
++7
+Normal
+
+d/b+4
+l
+12
+16
+-12
+-12
+-8
+-1
+Normal
+
+d/b+4, f
+l, (RFS)
+12
+16
+-1
+-1
++3
++10
+Normal
+
+d/b+4, 4
+l, h
+12,21
+16
+-2
+-2
+KND
+KND
+Tail spin
+
+d/b+3+4
+!
+40
+61
+-1
+KND
+KND
+KND
+Normal
+
+d/b+3+4, b, b (Cancel)
+(LFS)
+
+61
+-1
+
+
+
+Normal
+
+b+1
+m
+18
+15
+-13
+-13
+-1
+CS (0)
+Normal
+
+b+2
+h
+18
+13~14
+-9
+-9~-8
++k
++k
+Normal
+
+b+3
+m
+20
+16~17
+-19
+-19~-18
+Launch (JG?)
+Launch (JG?)
+Normal
+
+b+4
+h(RFF)
+20
+13~14
+-9
+-9~-8
++1~+2?
+CS
+Normal
+
+u/b+3
+m
+8
+16
+-14
+-14
++
++
+Normal
+
+u/b+3, 3
+m, h (TJ), (LFS)
+8,15
+16a
++3
++3?
+KND
+KND
+Tail spin
+
+u/b+3, 4
+m, m, (RFS)
+8,16
+16
+-4
+-4
++9?
++9?
+Normal
+
+u/b+4
+m (TJ)
+18
+17
+-8
+-8
++
++
+Normal
+
+u+3
+h (TJ), (LFS)
+33
+20a
++3
++3
+uKZD
+uKZD
+Normal
+
+u+4
+m (TJ), (RFS)
+18
+16
+0
+0
++11 GB
++11
+Normal
+
+u+3+4
+m (TJ)
+20
+25a
+-7
+-7
+KND
+KND
+Normal
+
+u/f+2
+m (TJ)
+22
+26a
++5
++5s
++4s
+TUD
+Normal
+
+u/f+3
+m (TJ)
+15
+28~29a
+-6
+-6~-5
+KND
+KND
+Normal
+
+u/f+3, 4
+m (TJ), m
+15,14
+28~29a
+-8
+-8
+Launch (JG?)
+Launch (JG?)
+Normal
+
+u/f+3, 4 (when second hit inputted)
+m (TJ)
+15
+28~29a
+-12
+-12
+KND
+KND
+Normal
+
+u/f+3, 4, 3
+m (TJ), m, h
+15,14,25
+28~29
+-1
+
+KND
+
+Normal
+
+u/f+4
+h (TJ), (RFS)
+12
+22a
+-2
+-2
++4
++4
+Normal
+
+u/f+4, 4
+h (TJ), m (TJ), (RFS)
+12,12
+22a
+0
+0
++6
++6
+Normal
+
+u/f+4, 4, 4
+h (TJ), m (TJ), l, (RFS)
+12,12,12
+22
++1
++1
++7
++
+Normal
+
+u/f+3+4
+mh (TJ)
+10,8
+14,25
+-10
+-10
++1
++1
+Normal
+
+u/f+3+4, 4
+mh (TJ), m (TJ)
+10,8,13
+14,25
+-13
+-13
++1
++1
+Normal
+
+f, F+3
+m(RFF)
+24
+22~24 (23~)
++6
++6~+8
++~+s
++~+s
+Normal
+
+f, F+4
+m(RFF)
+24
+17(18~)
+-6
+-6
+KND
+KND
+Normal
+
+f, n, d, d/f+3
+m, (LFS)
+27
+18(21~)
++3
++3?
+KND
+hKZD
+Normal
+
+f, n, d, d/f+4
+m
+18
+16(19~)
+-18
+-18
+Launch(JG?)
+Launch(JG?)
+Normal
+
+f, n, d/f+4
+m
+18
+16(18~)
+-10
+-10
+Launch(JG?)
+Launch(JG?)
+Normal
+
+f, f, f+3
+m (TJ)
+30
+22~23a (25~)
++6
++6~+7
+KND
+KND
+Normal
+
+f, f, f+4
+h (TJ)
+28
+18~19a (21~)
++5
++5~+6
++8~+9b
++8~+9b
+Normal
+
+WS+3
+m
+20
+14~15
+-7
+-7~-6
+KND
+KND
+Normal
+
+WS+4
+m
+12
+11
+-3
+-3
++8
++8
+Normal
+
+WS+4, 4
+m, m(RFF)
+12,13
+11
+-5
+-5~-4
++5~+6?s
++5~+6?s
+Normal
+
+WS+3+4
+m(RFF)
+16
+20b
+-9
+-9
++2
++2
+Normal
+
+WS+3+4, 3
+m, m
+16,20
+20
+-5
+-5~-1
++6~+10s (KND)
+KND
+Normal
+
+SS+3
+m
+15
+18(28~)
+-12
+-12
+-1
+FS(+6)
+Normal
+
+SS+3, 3
+m, h(LFS)
+15,18
+18(28~)
++3
++3
++14 GB
++14
+Normal
+
+SS+4
+l(RFF)
+18
+19(29~)
+-13
+-13
++3s
+KND
+Normal
+
+LFF BT 4
+m(RFF)
+20
+14~15
+-13
+-13~-12
+Launch (JG?)
+Launch (JG?)
+Normal
+
+RFF 1+2
+(LFF)
+b
+14~15
+-1
+
+
+
+Normal
+
+RFF 3+4
+(LFF)
+
+14~15
+-1
+
+
+
+Normal
+
+RFF 1
+h
+10
+10
+0
+0
++6
++6
+Normal
+
+RFF 1, 1
+h, m(LFF)
+10,12
+10
+-9
+-9
++2
++2
+Normal
+
+RFF 2
+h
+6
+10
++2
++2
++8
++8
+Normal
+
+RFF 2, 1
+h, h
+6,10
+10
+0
+0
++6
++6
+Normal
+
+RFF 2, 1, 1
+h, h, m(LFF)
+6,10,12
+10
+-9
+-9
++2
++2
+Normal
+
+RFF 2, 3
+h, h(LFF)
+6,20
+10
+-9
+-9
++
+CS
+Normal
+
+RFF 2, 4
+h, h(RFF)
+6,12
+10
+-8
+-8
++3
++3
+Normal
+
+RFF 2, 4, b or f
+h, h, (RFS)
+8,16
+10
++7
++7
++18 GB
++18 GB
+Normal
+
+RFF 2, 4, d or u
+h, h, (RFS)
+8,16
+10
++6
++6
++17 GB
++17 GB
+Normal
+
+RFF 2, 4, 3
+h, h, m
+6,12,20
+10
+-15
+-15~-9s
+KND
+KND
+Normal
+
+RFF 2, 4, 4
+h, h, h(LFF)
+6,12,23
+10
+-5
+-5
+KND
+KND
+Tail spin
+
+RFF 2, b+4
+h, h (TC)(LFF)
+6,27
+10
+-9
+-9
++k
++k
+Tail spin
+
+RFF 3
+m(LFF)
+13
+16
+-4
+-4
++7
++7
+Normal
+
+RFF 3, 4
+m, h, (RFS)
+13,16
+16
++9
++9 GB
++20 GB
++10
+Normal
+
+RFF 3, F+4
+m, h, (RFF)
+13,16
+16
+-7
+-7
++
+-7
+Normal
+
+RFF 3~4
+h(LFF)
+35
+27~28
++4
++4~+5y
+KND
+KND
+Homing, Tail spin, Power crush
+
+RFF 4
+h(RFF)
+12
+12
+-8
+-8
++3
++3
+Normal
+
+RFF 4, b or f
+h, (RFS)
+12
+12
++7
++7
++18 GB
++18
+Normal
+
+RFF 4, d or u
+h, (RFS)
+12
+12
++6
++6
++17 GB
++17
+Normal
+
+RFF 4, 3
+h, m, (Special)
+12,20
+12
+-15
+-15~-9 OC
+KND
+KND
+Normal
+
+RFF 4, 4
+h, h(LFF)
+12,23
+12
+-5
+-5
+KND
+KND
+Tail spin
+
+RFF f+4
+(Special)
+
+12
+-1
+
+
+
+Normal
+
+RFF f+4~4
+m
+20
+18~19 (18~)
+-12
+-12~-11
+Launch (JG?)
+Launch (JG?)
+Normal
+
+RFF f+3
+h, (LFS)
+21
+14~15
++12
++12~+13 GB
++23~+24 GB
++23~+24 GB
+Normal
+
+RFF f+3, B
+h(RFF)
+21
+14~15b
+-11
+-11~-10
+0~+1
+0~+1
+Normal
+
+RFF d/f+3
+m(LFF)
+25
+20
+-11
+-11
+KND
+KND
+Homing, Tail spin
+
+RFF d/f+4
+m
+12
+13
+-7
+-7
++1
++1
+Normal
+
+RFF d/f+4, b or f
+m, (RFS)
+12
+13
++7
++7
++15 GB
++15
+Normal
+
+RFF d/f+4, d or u
+m, (RFS)
+12
+13
++6
++6
++14 GB
++14
+Normal
+
+RFF d+4
+l
+19
+19
+-11
+-11
++5
++9?~g?
+Normal
+
+RFF d/b+3
+l (TC)
+13
+17
+-11
+-11
++2?
++6?
+Normal
+
+RFF d/b+3, 3
+l, h(LFF)
+13,28
+17
+-2
+-2y
+KND
+KND
+Tail spin
+
+RFF b+2
+m
+17
+16~17
++2
++2~+3
++6~+7s
+KND
+Normal
+
+RFF b+3
+h(LFF)
+20
+13~14
+-9
+-9~-8
++~+
+CS
+Normal
+
+RFF b+4
+h (TC)(LFF)
+36
+18
+-11
+-11
++k
++k
+Tail spin
+
+RFF f, F+3
+m (TJ)(LFF)
+22
+22~23a (23~)
+-6
+-6~-5s
+KND
+KND
+Normal
+
+RFF f, F+4
+m(LFF)
+18
+22(23~)
+-17
+-17
+-6
+-6
+Normal
+
+RFF f, F+4, 3
+m, h (TJ)
+18,20
+22(23~)a
++14
++14~+15
+KND
+KND
+Normal
+
+RFF BT 3
+m(LFF)
+20
+14
+-13
+-13
+Launch (JG?)
+Launch (JG?)
+Normal
+
+RFF BT 4
+m(RFF)
+16
+20b
+-9
+-9
++2
++2
+Normal
+
+RFF BT 4, 3
+m, m
+16,20
+20
+-5
+-5~-1
++6~+10s (KND)
+KND
+Normal
+
+RFF BT d+3
+l (TC)(LFF)
+20
+18s
+-13
+-13
+-2
+KND
+Normal
+
+f+3
+(Special)
+
+18
+-1
+
+
+
+Normal
+
+LFS 3+4
+(RFS)
+
+18
+-1
+
+
+
+Normal
+
+LFS 1
+h(LFF)
+7
+13
++5
++5
++7
++7
+Normal
+
+LFS 2
+m(RFF)
+15
+16
+-2
+-2
++9
++9
+Normal
+
+LFS 3
+m(LFF)
+12
+14
+-13
+-13
+-2
+-2
+Normal
+
+LFS 3, 3
+m, m(LFF)
+12,15
+14
+-14
+-14
+KND
+KND
+Normal
+
+LFS 3, F
+m, (LFS)
+12
+14
++2
++2
++13 GB
++13
+Normal
+
+LFS 3, 4
+m, h, (RFS)
+12,15
+14
++9
++9
++20 GB
++20
+Normal
+
+LFS 3, d/f or f+4
+m, h(LFF)
+12,25
+14
+-1
+-1~0y
+KND
+KND
+Normal
+
+LFS 4
+h (TJ), (RFS)
+24
+14a
++2
++2
+KND
+KND
+Normal
+
+LFS 1+4
+! (TJ)(LFF)
+80
+67~68a
+-1
+KND
+KND
+KND
+Normal
+
+LFS 1+4 , b, b (Cancel)
+(LFF)
+
+67~68
+-1
+
+
+
+Normal
+
+LFS f+3
+m, (LFS)
+25
+19
++3
++3?
+KND
+hKZD(20?)
+Normal
+
+LFS f+4
+m(RFF)
+17
+16
+-7
+-7
++1
++4
+Normal
+
+LFS f+4, 3
+m, h (TJ)(RFF)
+17,26
+16a
++3
++3
+KND
+KND
+Normal
+
+LFS d/f+3
+m(LFF)
+17
+22~23
+-12
+-12~-11
++1~+2
+hKZD
+Normal
+
+LFS d/f+3, 4
+m, m(LFF)
+17,23
+22~23
+-14
+-14
+KND
+KND
+Normal
+
+LFS d/f+3, f (Cancel)
+(LFS)
+
+22~23
+-1
+
+
+
+Normal
+
+LFS d+3
+l(LFF)
+7
+16
+-17
+-17
+-6
+-6
+Normal
+
+LFS d+3, 4
+l, h, (RFS)
+7,10
+16
++8
++8~+10
++14~+16 GB
++19~+21
+Normal
+
+LFS d or d/f+4
+l (TC)(LFF)
+12
+28s
+-23
+-23
+KND
+KND
+Normal
+
+LFS d/b+4
+l(RFF)
+17
+20
+-12
+-12
++1
+KND
+Normal
+
+LFS b+1
+m
+18
+15
+-13
+-13
+-1
+CS (0)
+Normal
+
+LFS b+3
+m (TJ)(RFF)
+23
+20a
+-12
+-12
++k
++k
+Homing, Tail spin, Power crush
+
+LFS b+4
+m(RFF)
+28
+16
+-8
+-8
++7
+hKZD
+Normal
+
+LFS u/f+3
+m (TJ)(LFF)
+13
+28~29a
+-6
+-6~-5
+KND
+KND
+Normal
+
+LFS u/f+3, 4
+m (TJ), m(LFF)
+13,12
+28~29a
+-8
+-8
+Launch (JG?)
+Launch (JG?)
+Normal
+
+LFS u/f+3, 4, 3
+m (TJ), m, h(LFF)
+13,12,24
+28~29
+-1
+
+KND
+
+Normal
+
+LFS u/f+4
+m (TJ)(LFF)
+18
+23a
+-15
+-15
+Launch(JG?)
+Launch(JG?)
+Normal
+
+LFS u/f+3+4
+mh (TJ)(LFF)
+10,8
+14,25
+-10
+-10
++1
++1
+Normal
+
+LFS u/f+3+4, 4
+mh (TJ), m (TJ)(LFF)
+10,8,13
+14,25
+-13
+-13
++1
++1
+Normal
+
+LFS f or b or u or d
+(Special)
+
+14,25
+-1
+
+
+
+Normal
+
+f, n+4
+(Special)
+
+14,25
+-1
+
+
+
+Normal
+
+RFS 3+4
+(LFS)
+
+14,25
+-1
+
+
+
+Normal
+
+RFS 1
+m(LFF)
+15
+16
+-2
+-2
++9
++9
+Normal
+
+RFS 2
+h(RFF)
+7
+13
++5
++5
++7
++7
+Normal
+
+RFS 3
+h (TJ), (LFS)
+24
+14a
++2
++2
+KND
+KND
+Normal
+
+RFS 4
+m(RFF)
+20
+14
+-14
+-14
+KND
+KND
+Normal
+
+RFS f+3
+m(LFF)
+17
+16
+-7
+-7
++1
++4
+Normal
+
+RFS f+3, 4
+m, h (TJ)(LFF)
+17,26
+16a
++3
++3
+KND
+KND
+Normal
+
+RFS f+4
+hh, (RFS)
+8,10
+8,18
++1
++1
++3
++7
+Normal
+
+RFS f+4, 4
+hh, h(RFF)
+8,10,12
+8,18
+-6
+-6
+Launch (JG?)
+Launch (JG?)
+Normal
+
+RFS d/f+4
+m(LFF)
+14
+17~18
+-5
+-5~-4
+KND
+KND
+Normal
+
+RFS d/b or d or d/f+3
+l (TC)(LFF)
+12
+28s
+-23
+-23
+KND
+KND
+Normal
+
+RFS d+4
+l(LFF)
+11
+20
+-31
+-31
+� (KND)
+� (KND)
+Normal
+
+RFS d+4, 3
+l, m(LFF)
+11,25
+20
+-14
+-14
+KND
+KND
+Normal
+
+RFS b+3
+m(LFF)
+21
+16
+-15
+-15
+Launch (JG?)
+Launch (JG?)
+Normal
+
+RFS b+4
+m (TJ)(LFF)
+23
+20a
+-12
+-12
++k
++k
+Homing, Tail spin, Power crush
+
+RFS f or b or u or d
+(Special)
+
+20
+-1
+
+
+
+
+

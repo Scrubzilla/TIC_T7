@@ -1,0 +1,1053 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2015-okt-31, 03:46:35
+    Author     : Nicklas
+*/
+//--------------------------------BACKGROUNDS---------------------------------\\
+#background{
+    -fx-background-image: url("../Resources/Images/Backgrounds/DefaultBackground.png");
+}
+
+//-----------------------------MENU BUTTONS-----------------------------------\\
+#menuGuidesButtonNormal{
+    -fx-background-image: url("../Resources/Images/MenuButtons/GuidesNormal.png");
+    -fx-background-color: transparent;
+}
+
+#menuGuidesButtonOnHover{
+    -fx-background-image: url("../Resources/Images/MenuButtons/GuidesOnHover.png");
+    -fx-background-color: transparent;
+}
+
+#menuMiscButtonNormal{
+    -fx-background-image: url("../Resources/Images/MenuButtons/MiscNormal.png");
+    -fx-background-color: transparent;
+}
+
+#menuMiscButtonOnHover{
+    -fx-background-image: url("../Resources/Images/MenuButtons/MiscOnHover.png");
+    -fx-background-color: transparent;
+}
+
+#menuSettingsButtonNormal{
+    -fx-background-image: url("../Resources/Images/MenuButtons/SettingsNormal.png");
+    -fx-background-color: transparent;
+}
+
+#menuSettingsButtonOnHover{
+    -fx-background-image: url("../Resources/Images/MenuButtons/SettingsOnHover.png");
+    -fx-background-color: transparent;
+}
+
+#menuToolsButtonNormal{
+    -fx-background-image: url("../Resources/Images/MenuButtons/ToolsNormal.png");
+    -fx-background-color: transparent;
+}
+
+#menuToolsButtonOnHover{
+    -fx-background-image: url("../Resources/Images/MenuButtons/ToolsOnHover.png");
+    -fx-background-color: transparent;
+}
+
+
+#menuFrameDataButtonNormal{
+    -fx-background-image: url("../Resources/Images/MenuButtons/FrameDataNormal.png");
+    -fx-background-color: transparent;
+}
+
+#menuFrameDataButtonOnHover{
+    -fx-background-image: url("../Resources/Images/MenuButtons/FrameDataOnHover.png");
+    -fx-background-color: transparent;
+}
+
+#menuTutorialsButtonNormal{
+    -fx-background-image: url("../Resources/Images/MenuButtons/TutorialsNormal.png");
+    -fx-background-color: transparent; 
+}
+
+#menuTutorialsButtonOnHover{
+    -fx-background-image: url("../Resources/Images/MenuButtons/TutorialsOnHover.png");
+    -fx-background-color: transparent;  
+}
+
+#menuBasicsButtonNormal{
+    -fx-background-image: url("../Resources/Images/MenuButtons/BasicsNormal.png");
+    -fx-background-color: transparent; 
+}
+
+#menuBasicsButtonOnHover{
+    -fx-background-image: url("../Resources/Images/MenuButtons/BasicsOnHover.png");
+    -fx-background-color: transparent;  
+}
+
+#menuSpecificsButtonNormal{
+    -fx-background-image: url("../Resources/Images/MenuButtons/SpecificsNormal.png");
+    -fx-background-color: transparent; 
+}
+
+#menuSpecificsButtonOnHover{
+    -fx-background-image: url("../Resources/Images/MenuButtons/SpecificsOnHover.png");
+    -fx-background-color: transparent;  
+}
+
+#menuRankingButtonNormal{
+    -fx-background-image: url("../Resources/Images/MenuButtons/RankingNormal.png");
+    -fx-background-color: transparent; 
+}
+
+#menuRankingButtonOnHover{
+    -fx-background-image: url("../Resources/Images/MenuButtons/RankingOnHover.png");
+    -fx-background-color: transparent;  
+}
+
+#menuThrowBreakingButtonNormal{
+    -fx-background-image: url("../Resources/Images/MenuButtons/ThrowBreakingNormal.png");
+    -fx-background-color: transparent; 
+}
+
+#menuThrowBreakingButtonOnHover{
+    -fx-background-image: url("../Resources/Images/MenuButtons/ThrowBreakingOnHover.png");
+    -fx-background-color: transparent;  
+}
+
+#menuChangeLogButtonNormal{
+    -fx-background-image: url("../Resources/Images/MenuButtons/ChangeLogNormal.png");
+    -fx-background-color: transparent; 
+}
+
+#menuChangeLogButtonOnHover{
+    -fx-background-image: url("../Resources/Images/MenuButtons/ChangeLogOnHover.png");
+    -fx-background-color: transparent;  
+}
+
+#menuContactButtonNormal{
+    -fx-background-image: url("../Resources/Images/MenuButtons/ContactNormal.png");
+    -fx-background-color: transparent; 
+}
+
+#menuContactButtonOnHover{
+    -fx-background-image: url("../Resources/Images/MenuButtons/ContactOnHover.png");
+    -fx-background-color: transparent;  
+}
+
+#menuNotesButtonNormal{
+    -fx-background-image: url("../Resources/Images/MenuButtons/NotesNormal.png");
+    -fx-background-color: transparent; 
+}
+
+#menuNotesButtonOnHover{
+    -fx-background-image: url("../Resources/Images/MenuButtons/NotesOnHover.png");
+    -fx-background-color: transparent;  
+}
+
+#menuSitesButtonNormal{
+    -fx-background-image: url("../Resources/Images/MenuButtons/SitesNormal.png");
+    -fx-background-color: transparent; 
+}
+
+#menuSitesButtonOnHover{
+    -fx-background-image: url("../Resources/Images/MenuButtons/SitesOnHover.png");
+    -fx-background-color: transparent;  
+}
+
+#menuPlaystationButtonNormal{
+    -fx-background-image: url("../Resources/Images/MenuButtons/PlaystationNormal.png");
+    -fx-background-color: transparent; 
+}
+
+#menuPlaystationButtonOnHover{
+    -fx-background-image: url("../Resources/Images/MenuButtons/PlaystationOnHover.png");
+    -fx-background-color: transparent;  
+}
+
+#menuXboxButtonNormal{
+    -fx-background-image: url("../Resources/Images/MenuButtons/XboxNormal.png");
+    -fx-background-color: transparent; 
+}
+
+#menuXboxButtonOnHover{
+    -fx-background-image: url("../Resources/Images/MenuButtons/XboxOnHover.png");
+    -fx-background-color: transparent;  
+}
+
+#menuPcButtonNormal{
+    -fx-background-image: url("../Resources/Images/MenuButtons/PcNormal.png");
+    -fx-background-color: transparent; 
+}
+
+#menuPcButtonOnHover{
+    -fx-background-image: url("../Resources/Images/MenuButtons/PcOnHover.png");
+    -fx-background-color: transparent;  
+}
+
+#menuOnlineTrackerButtonNormal{
+    -fx-background-image: url("../Resources/Images/MenuButtons/StatisticsNormal.png");
+    -fx-background-color: transparent; 
+}
+
+#menuOnlineTrackerButtonOnHover{
+    -fx-background-image: url("../Resources/Images/MenuButtons/StatisticsOnHover.png");
+    -fx-background-color: transparent;  
+}
+
+
+//-----------------------------NAVIGATION BAR---------------------------------\\
+#navigationBarBackwardsButtonNormal{
+    -fx-background-image: url("../Resources/Images/NavigationBar/BackwardsNormal.png");
+    -fx-background-color: transparent;
+}
+
+#navigationBarBackwardsButtonOnHover{
+    -fx-background-image: url("../Resources/Images/NavigationBar/BackwardsOnHover.png");
+    -fx-background-color: transparent;
+}
+
+#navigationBarBackwardsButtonDisabled{
+    -fx-background-image: url("../Resources/Images/NavigationBar/BackwardsDisabled.png");
+    -fx-background-color: transparent;
+}
+
+#navigationBarHomeButtonNormal{
+    -fx-background-image: url("../Resources/Images/NavigationBar/HomeNormal.png");
+    -fx-background-color: transparent;
+}
+
+#navigationBarHomeButtonOnHover{
+    -fx-background-image: url("../Resources/Images/NavigationBar/HomeOnHover.png");
+    -fx-background-color: transparent;
+}
+
+#navigationBarHomeButtonDisabled{
+    -fx-background-image: url("../Resources/Images/NavigationBar/HomeDisabled.png");
+    -fx-background-color: transparent;
+}
+
+#navigationBarForwardButtonNormal{
+    -fx-background-image: url("../Resources/Images/NavigationBar/ForwardNormal.png");
+    -fx-background-color: transparent;
+}
+
+#navigationBarForwardButtonOnHover{
+    -fx-background-image: url("../Resources/Images/NavigationBar/ForwardOnHover.png");
+    -fx-background-color: transparent;
+}
+
+#navigationBarForwardButtonDisabled{
+    -fx-background-image: url("../Resources/Images/NavigationBar/ForwardDisabled.png");
+    -fx-background-color: transparent;
+}
+
+//-----------------------------------PROGRAM----------------------------------\\
+#programHelpButtonNormal{
+    -fx-background-image: url("../Resources/Images/ProgramImages/HelpButtonNormal.png");
+    -fx-background-color: transparent;
+}
+
+#programHelpButtonOnHover{
+    -fx-background-image: url("../Resources/Images/ProgramImages/HelpButtonOnHover.png");
+    -fx-background-color: transparent;
+}
+
+#programXButtonNormal{
+    -fx-background-image: url("../Resources/Images/ProgramImages/CloseButtonNormal.png");
+    -fx-background-color: transparent;
+}
+
+#programXButtonOnHover{
+    -fx-background-image: url("../Resources/Images/ProgramImages/CloseButtonOnHover.png");
+    -fx-background-color: transparent;
+}
+
+#programLegendButtonNormal{
+    -fx-background-image: url("../Resources/Images/ProgramImages/LegendButtonNormal.png");
+    -fx-background-color: transparent;
+}
+
+#programLegendButtonOnHover{
+    -fx-background-image: url("../Resources/Images/ProgramImages/LegendButtonOnHover.png");
+    -fx-background-color: transparent;
+}
+//-----------------------------------RANKING----------------------------------\\
+#rankingArrowUpButtonNormal{
+    -fx-background-image: url("../Resources/Images/ProgramImages/ArrowUpNormal.png");
+    -fx-background-color: transparent;
+}
+
+#rankingArrowUpButtonOnHover{
+    -fx-background-image: url("../Resources/Images/ProgramImages/ArrowUpOnHover.png");
+    -fx-background-color: transparent;
+}
+
+#rankingArrowDownButtonNormal{
+    -fx-background-image: url("../Resources/Images/ProgramImages/ArrowDownNormal.png");
+    -fx-background-color: transparent;
+}
+
+#rankingArrowDownButtonOnHover{
+    -fx-background-image: url("../Resources/Images/ProgramImages/ArrowDownOnHover.png");
+    -fx-background-color: transparent;
+}
+//-----------------------------------TUTORIALS--------------------------------\\
+#tutorialPlayButtonNormal{
+    -fx-background-image: url("../Resources/Images/ProgramImages/PlayNormal.png");
+    -fx-background-color: transparent;
+}
+
+#tutorialPlayButtonOnHover{
+    -fx-background-image: url("../Resources/Images/ProgramImages/PlayOnHover.png");
+    -fx-background-color: transparent;
+}
+//------------------------------------CONTACT---------------------------------\\
+#contactFacebookButtonNormal{
+    -fx-background-image: url("../Resources/Images/Contact/FacebookNormal.png");
+    -fx-background-color: transparent;
+}
+
+#contactFacebookButtonOnHover{
+    -fx-background-image: url("../Resources/Images/Contact/FacebookOnHover.png");
+    -fx-background-color: transparent;
+}
+
+#contactTwitterButtonNormal{
+    -fx-background-image: url("../Resources/Images/Contact/TwitterNormal.png");
+    -fx-background-color: transparent;
+}
+
+#contactTwitterButtonOnHover{
+    -fx-background-image: url("../Resources/Images/Contact/TwitterOnHover.png");
+    -fx-background-color: transparent;
+}
+
+#contactPatreonButtonNormal{
+    -fx-background-image: url("../Resources/Images/Contact/PatreonNormal.png");
+    -fx-background-color: transparent;
+}
+
+#contactPatreonButtonOnHover{
+    -fx-background-image: url("../Resources/Images/Contact/PatreonOnHover.png");
+    -fx-background-color: transparent;
+}
+
+#contactYoutubeButtonNormal{
+    -fx-background-image: url("../Resources/Images/Contact/YoutubeNormal.png");
+    -fx-background-color: transparent;
+}
+
+#contactYoutubeButtonOnHover{
+    -fx-background-image: url("../Resources/Images/Contact/YoutubeOnHover.png");
+    -fx-background-color: transparent;
+}
+//-------------------------------TABLE-VIEW-----------------------------------\\
+.table-view {
+    -fx-base: #1d1d1d;
+    -fx-control-inner-background: #1c1c1c;
+    -fx-background-color: transparent;
+    -fx-table-cell-border-color: #151515;
+    -fx-table-header-border-color: transparent;
+    -fx-padding: 5;
+    -fx-opacity: 80%;
+    -fx-font-size: 15px;
+    -fx-text-background-color: #d9d9d9;
+}
+
+.table-view > .virtual-flow > .scroll-bar {
+    -fx-font-size: 15pt;
+}
+
+.table-view:focused .table-row-cell:filled:focused:selected {
+    -fx-background-color: #2e2e2e;
+    -fx-background-insets: 0, 1, 2;
+    -fx-background: -fx-accent;
+    -fx-text-fill: -fx-selection-bar-text;
+    -fx-table-cell-border-color: #151515;
+}
+
+.table-row-cell:filled:focused:selected {
+    -fx-background-color: #2e2e2e;
+    -fx-table-cell-border-color: #151515;
+}
+/*
+.table-view:row-selection .table-row-cell:filled:hover {
+    -fx-background-color: #6e6e6e;
+    -fx-background-insets: 0, 0 0 1 0;
+    -fx-text-fill: -fx-text-inner-color;
+}
+*/
+//-------------------------------LIST-VIEW------------------------------------\\
+.list-view{
+    -fx-base: #121212;
+    -fx-background-color: #0a0a0a;  
+    -fx-control-inner-background: transparent;
+    -fx-opacity:80%;
+    -fx-border-color: #2e2e2e; 
+    -fx-border-size: 1px;
+    -fx-font-size: 18px;
+    -fx-text-background-color: #d9d9d9;
+}
+
+.list-view:focused {
+    -fx-background-insets: 0, 0, 1, 2;
+}
+
+.list-cell:filled:selected {
+    -fx-background-color: #2e2e2e;
+}
+
+.list-view:focused .list-cell:filled:selected {
+    -fx-background-color: #2e2e2e;
+}
+
+.list-cell {
+    -fx-padding: 0 0 0 10;
+}
+//--------------------------------TEXT AREA-----------------------------------\\
+.text-area {
+    -fx-base: #121212;
+    -fx-background-color:transparent, #0a0a0a, transparent, #0a0a0a;
+    -fx-border-color:#2e2e2e;
+    -fx-border-width:1px;
+    -fx-opacity:80%;
+    -fx-text-fill: #d9d9d9;
+}
+
+.text-area .content {
+    -fx-background-color:transparent, #0a0a0a, transparent, #0a0a0a;
+    -fx-background-radius: 0;
+    -fx-padding: 10 0 0 15;
+}
+
+.text-area .scroll-bar{
+    -fx-font-size: 15pt;
+}
+
+#sidePane{
+    -fx-base: rgba(18, 18, 18, .2);
+    -fx-background-color:transparent, rgba(10, 10, 10, .2), transparent, rgba(10, 10, 10, .2);
+    -fx-border-color:#2e2e2e;
+    -fx-border-width:1px;
+    //-fx-opacity:80%;
+    -fx-text-fill: #d9d9d9;
+}
+
+#pausePane{
+    -fx-base: rgba(18, 18, 18, .3);
+    -fx-background-color:transparent, rgba(18, 18, 18, .3), transparent, rgba(18, 18, 18, .3);
+    -fx-border-color:#2e2e2e;
+    -fx-border-width:1px;
+    //-fx-opacity:80%;
+    -fx-text-fill: #d9d9d9;
+}
+
+
+//---------------------------------CHECKBOXES---------------------------------\\
+.check-box{
+    -fx-font-family: "Arial";
+    -fx-font-size: 14;
+    -fx-text-fill:#D9D9D9;
+}
+
+.check-box .box{
+    -fx-outer-border: #D9D9D9;
+    -fx-body-color: #1C1C1C;
+    -fx-background-color: -fx-outer-border, -fx-body-color;
+    -fx-background-insets: 0, 1;
+    -fx-background-radius: 2px, 0px;
+}
+
+.check-box .mark {
+    -fx-shape:"M14.596,2.055L12.455,0C9.687,2.884,6.011,6.714,5.158,7.602L2.055,4.624L0,6.765l5.242,5.037l0.003-0.004
+        l0.003,0.004L14.596,2.055z";}
+
+.check-box:selected .mark {
+    -fx-background-color: #D9D9D9;}
+
+.check-box:focused {
+    -fx-focus-color: transparent;
+}
+
+//---------------------------------BUTTON-------------------------------------\\
+#button{
+    -fx-background-color: #1C1C1C;
+    -fx-border-color:#D9D9D9;
+    -fx-text-fill:#D9D9D9;
+}
+
+#button:focused{
+    -fx-focus-color: transparent;
+}
+
+#button:hover{
+    -fx-background-color: #2E2E2E;
+}
+
+#button:active{
+    -fx-background-color: #656565;
+}
+
+#buttonSelected{
+    -fx-background-color: #1C1C1C;
+    -fx-border-color:#D9D9D9;
+    -fx-text-fill:#D9D9D9;
+    -fx-font-weight: bold;
+}
+
+#buttonSelected:hover{
+    -fx-background-color: #2E2E2E;
+}
+
+#buttonSelected:focused{
+    -fx-focus-color: transparent;
+}
+
+//---------------------------------COMBOBOX-----------------------------------\\
+/*.combo-box-base  
+{
+    -fx-text-fill:#D9D9D9;
+    -fx-background-color: #0A0A0A;
+    -fx-background-radius: 5, 5, 4, 3;
+    -fx-background-insets: 0 0 -1 0, 0, 1, 2;
+    -fx-padding: 0;
+}*/
+
+.combo-box-popup .list-view .list-cell:hover {
+    -fx-background-color: #2E2E2E;
+}
+
+.combo-box .cell:selected {
+    -fx-text-fill: #D9D9D9;
+    //-fx-background-color:#0A0A0A;
+    -fx-background-color: rgba(10, 10, 10, 0.5);
+}
+
+.combo-box-base{
+    //-fx-opacity:80%;
+    -fx-background-color: transparent;
+}
+
+.combo-box .arrow-button
+{
+    //-fx-background-color: #0A0A0A;
+    -fx-background-color: rgba(10, 10, 10, 0.5);
+    // -fx-background-insets: 0;
+    //-fx-background-radius: 0;
+    //-fx-padding: 0.0em 0em 0.0em 0.0em; /* 0 3 0 0 */
+}
+
+
+.combo-box-base:focused{
+    -fx-focus-color: transparent; 
+    -fx-background-insets: -1.4, 0, 1, 2;
+}
+
+//------------------------------JFOENIX TABPANE-------------------------------\\
+.jfx-tab-pane .tab-header-area .tab-header-background {
+    //-fx-background-color: #800F0F0F;
+    -fx-background-color: #0F0F0F;
+    -fx-opacity: 70%;
+
+}
+
+//------------------------------JFOENIX TEXT-FIELD----------------------------\\
+.jfx-text-field{
+    -fx-background-color:transparent;
+    -fx-text-fill: #D9D9D9;
+}
+
+.jfx-text-field:focused {
+    -fx-focus-color:#D9D9D9;
+}
+
+//----------------------------------TEXT-FIELD--------------------------------\\
+/*
+.text-field:focused {
+    -fx-focus-color:transparent;
+}
+*/
+
+#customField{
+    -fx-background-color: #0a0a0a; //Get rgba value with 80opacuty
+    -fx-text-fill: #D9D9D9;
+
+    -fx-prompt-text-fill: #4d4d4d;
+
+}
+
+#customField:focused{
+    -fx-focus-color:transparent;
+
+}
+/*
+.customField{
+    -fx-text-fill: red;
+    
+}*/
+//------------------------------PROGRESS-BAR----------------------------------\\
+.progress-bar{
+    -fx-accent: #2e2e2e;
+
+
+    //when on + points (green):#3b9337
+    //When getting on - pts (yellow): #a2ae20
+    //when on very - points(red): #933b37;
+}
+
+.progress-bar > .track {
+    -fx-base: #121212;
+    -fx-text-box-border: #2e2e2e;
+    -fx-opacity: 80%;
+    //-fx-background-color:transparent, #0a0a0a, transparent, #0a0a0a;
+    //-fx-background-radius: 0;
+    // -fx-padding: 10 0 0 15;
+    -fx-control-inner-background: #0a0a0a;
+
+}
+
+//--------------------------------PIE CHARTS----------------------------------\\
+.chart-pie{
+    -fx-pie-color: #2f357f;
+    -fx-fill: #D9D9D9;
+}
+
+.chart-pie-label {
+    -fx-fill: #D9D9D9;
+    -fx-font-size:13px;
+}
+
+.chart-pie-label-line {
+    -fx-stroke: #D9D9D9;
+    -fx-fill: #D9D9D9;
+
+}
+
+.default-color0.chart-pie { 
+    -fx-pie-color: #933b37; 
+}
+
+.default-color1.chart-pie { 
+    -fx-pie-color: #374693; 
+}
+
+.default-color2.chart-pie { 
+    -fx-pie-color: #933b37; 
+}
+
+.default-color3.chart-pie { 
+    -fx-pie-color: #374693; 
+}
+
+.default-color4.chart-pie { 
+    -fx-pie-color: #933b37; 
+}
+
+.default-color5.chart-pie { 
+    -fx-pie-color: #374693; 
+}
+
+.default-color6.chart-pie { 
+    -fx-pie-color: #933b37; 
+}
+
+.default-color7.chart-pie { 
+    -fx-pie-color: #374693; 
+}
+
+//--------------------------------SCROLL PANE---------------------------------\\
+.scroll-pane {
+    -fx-background-insets: 0;
+    -fx-padding: 0;
+}
+
+.scroll-pane:focused {
+    -fx-background-color: transparent;
+    -fx-control-inner-background: transparent;
+    -fx-background-insets: 0;
+}
+
+.scroll-pane .corner {
+    -fx-background-insets: 0;
+}
+
+//----------------------------------CHARACTERS--------------------------------\\
+#characterAkumaNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/akuma_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterAkumaOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/akuma_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterAlisaNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/alisa_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterAlisaOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/alisa_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterAsukaNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/asuka_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterAsukaOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/asuka_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterBobNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/bob_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterBobOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/bob_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterBryanNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/bryan_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterBryanOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/bryan_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterClaudioNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/claudio_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterClaudioOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/claudio_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterDevilJinNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/deviljin_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterDevilJinOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/deviljin_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterDragunovNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/dragunov_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterDragunovOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/dragunov_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterEddyNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/eddy_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterEddyOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/eddy_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterElizaNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/eliza_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterElizaOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/eliza_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterFengNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/feng_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterFengOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/feng_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterGigasNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/gigas_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterGigasOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/gigas_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterHeihachiNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/heihachi_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterHeihachiOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/heihachi_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterHwoarangNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/hwoarang_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterHwoarangOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/hwoarang_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterJack7Normal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/jack7_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterJack7OnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/jack7_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterJinNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/jin_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterJinOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/jin_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterJosieNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/josie_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterJosieOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/josie_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterKatarinaNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/katarina_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterKatarinaOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/katarina_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterKazumiNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/kazumi_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterKazumiOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/kazumi_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterKazuyaNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/kazuya_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterKazuyaOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/kazuya_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterKingNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/king_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterKingOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/king_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterKumaNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/kuma_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterKumaOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/kuma_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterLarsNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/lars_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterLarsOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/lars_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterLawNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/law_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterLawOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/law_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterLeeNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/lee_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterLeeOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/lee_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterLeoNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/leo_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterLeoOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/leo_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterLiliNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/lili_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterLiliOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/lili_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterLuckyChloeNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/luckychloe_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterLuckyChloeOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/luckychloe_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterMasterRavenNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/masterraven_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterMasterRavenOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/masterraven_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterMiguelNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/miguel_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterMiguelOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/miguel_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterNinaNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/nina_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterNinaOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/nina_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterPandaNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/panda_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterPandaOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/panda_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterPaulNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/paul_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterPaulOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/paul_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterShaheenNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/shaheen_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterShaheenOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/shaheen_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterSteveNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/steve_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterSteveOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/steve_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterXiaoyuNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/xiaoyu_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterXiaoyuOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/xiaoyu_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterYoshimitsuNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/yoshimitsu_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterYoshimitsuOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/yoshimitsu_on.png");
+    -fx-background-color: transparent;
+}
+
+#characterUnknownNormal{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/unknown_off.png");
+    -fx-background-color: transparent;
+}
+
+#characterUnknownOnHover{
+    -fx-background-image: url("../Resources/Images/CharacterPortraits/unknown_on.png");
+    -fx-background-color: transparent;
+}

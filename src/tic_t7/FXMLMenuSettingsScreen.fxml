@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="background" prefHeight="690.0" prefWidth="1350.0" stylesheets="@Layout.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="tic_t7.MenuSettingsScreenController">
+   <children>
+      <Button id="menuPlaystationButtonNormal" layoutX="315.0" layoutY="46.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="550.0" prefWidth="220.0" text="Playstation" textFill="TRANSPARENT" />
+      <Button id="menuXboxButtonNormal" layoutX="565.0" layoutY="46.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="550.0" prefWidth="220.0" text="Xbox" textFill="TRANSPARENT" />
+      <Button id="menuPcButtonNormal" layoutX="815.0" layoutY="46.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="550.0" prefWidth="220.0" text="Pc" textFill="TRANSPARENT" />
+      <ImageView fitHeight="47.0" fitWidth="429.0" layoutX="460.0" layoutY="643.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../Resources/Images/NavigationBar/NavigationBarBackground.png" />
+         </image>
+      </ImageView>
+      <Button id="navigationBarBackwardsButtonNormal" layoutX="551.0" layoutY="652.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="37.0" prefWidth="36.0" text="Backwards" textFill="TRANSPARENT" />
+      <Button id="navigationBarHomeButtonNormal" layoutX="657.0" layoutY="652.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="37.0" prefWidth="36.0" text="Home" textFill="TRANSPARENT" />
+      <Button id="navigationBarForwardButtonNormal" fx:id="navigationForwardButton" layoutX="763.0" layoutY="652.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="37.0" prefWidth="36.0" text="Forward" textFill="TRANSPARENT" />
+   </children>
+</AnchorPane>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="background" prefHeight="690.0" prefWidth="1350.0" stylesheets="@Layout.css" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="tic_t7.MenuMainScreenController">
+   <children>
+      <Button id="menuGuidesButtonNormal" layoutX="315.0" layoutY="46.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="550.0" prefWidth="220.0" text="Guides" textFill="TRANSPARENT" />
+      <Button id="menuMiscButtonNormal" layoutX="815.0" layoutY="46.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="550.0" prefWidth="220.0" text="Misc" textFill="TRANSPARENT" />
+      <Button id="menuSettingsButtonNormal" layoutX="815.0" layoutY="46.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="550.0" prefWidth="220.0" text="Settings" textFill="TRANSPARENT" visible="false" />
+      <Label fx:id="errorLabel" layoutX="671.0" layoutY="626.0" textFill="RED">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="47.0" fitWidth="429.0" layoutX="460.0" layoutY="643.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../Resources/Images/NavigationBar/NavigationBarBackground.png" />
+         </image>
+      </ImageView>
+      <Button id="navigationBarBackwardsButtonDisabled" disable="true" layoutX="551.0" layoutY="652.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="37.0" prefWidth="36.0" text="Backwards" textFill="TRANSPARENT" />
+      <Button id="navigationBarHomeButtonDisabled" disable="true" layoutX="657.0" layoutY="652.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="37.0" prefWidth="36.0" text="Home" textFill="TRANSPARENT" />
+      <Button id="navigationBarForwardButtonNormal" fx:id="navigationForwardButton" layoutX="763.0" layoutY="652.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="37.0" prefWidth="36.0" text="Forward" textFill="TRANSPARENT" />
+      <Label layoutX="1090.0" layoutY="656.0" text="TEKKEN Information Centre v.0.0.5 (2017-07-09)" />
+      <Label layoutX="1107.0" layoutY="671.0" text="© 2015-2016 Nicklas &quot;Scrubzilla&quot; Brisendal" />
+      <Button id="menuToolsButtonNormal" layoutX="565.0" layoutY="46.0" mnemonicParsing="false" onAction="#buttonClick" onMouseEntered="#onMouseOver" onMouseExited="#onMouseExit" prefHeight="550.0" prefWidth="220.0" text="Tools" textFill="TRANSPARENT" />
+   </children>
+</AnchorPane>

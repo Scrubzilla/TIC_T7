@@ -1,0 +1,930 @@
+in rage 1+2
+m (TJ)
+55
+20
+-42
+-42
+KND
+KND
+Rage art
+
+in rage f+3+4*
+l!, (GOL)
+0
+20(30~)
++20
++20
++20
++20
+Rage art
+
+1
+h
+7
+10
++1
++1
++8
++8
+Normal
+
+1, 2
+h, h
+7,24
+10
+-14
+-14
+KND
+KND
+Normal
+
+2
+h
+10
+10
+-5
+-5
++6
++6
+Normal
+
+2, 1
+h, h
+10,12
+10
+-5
+-5
++6
++6
+Normal
+
+2, 1, 3+4
+h, h, (SG)
+10,12
+10
+-4
+-4
++7
++7
+Normal
+
+3
+m
+20
+14
+-9
+-9
++2
+KND
+Normal
+
+4
+m
+23
+16
+-9
+-9
++2
+KND
+Normal
+
+f+2
+h
+20
+16
+-9
+-9
++7
+CS
+Normal
+
+f+2, 1
+h, h
+20,17
+16
+-3
+-3
++5
++5
+Normal
+
+f+2, 1, 1
+h, h, m
+20,17,24
+16
+-12
+-12
+KMUD
+KMUD
+Normal
+
+f+2, f+1
+h, h
+20,17
+16
+-9
+-9
+CS
+CS
+Tail spin
+
+f+2, d+1
+h, m
+20,17
+16
+-13
+-13s
++2s
++2s
+Normal
+
+f+2, d+1, 3+4
+h, m, (SG)
+20,17
+16
+-2
+-2s
++13s
++13s
+Normal
+
+f+3
+m
+17
+23~24
+-13
+-13~12
++5~+6
++5~+6
+Normal
+
+f+3, 2
+m, m
+17,20
+23~24
+-13
+-13
+KND
+KND
+Normal
+
+f+3, 2, F
+m, m, (GOL)
+17,20
+23~24
+-26
+-26
+KND
+KND
+Normal
+
+f+3, 2*
+m, m
+17,40
+23~24
++15
++15g
+KND
+KND
+Normal
+
+f+3, 2*, F
+m, m, (GOL)
+17,40
+23~24
++19
++19
+KND
+KND
+Normal
+
+f+4
+m
+20
+24
+-14
+-14
+KND
+KND
+Normal
+
+f+4, F
+m, (GOL)
+20
+24
+-26
+-26
+KND
+KND
+Normal
+
+f+4*
+m
+40
+43
++26
++26g
+KND
+KND
+Normal
+
+f+4*, F
+m, (GOL)
+40
+43
++19
++19
+KND
+KND
+Normal
+
+f+1+2
+h
+15
+13
+-10
+-10
++5s
+Throw (0orD)
+Normal
+
+f+1+2(CH in front)
+h, (throw)
+18,10*4
+13
+-1
+
+
+Throw (0orD)
+Normal
+
+d/f+1
+m
+17
+14
+-6
+-6
++7
++7
+Normal
+
+d/f+2
+m
+14
+15
+-7
+-7
++6
++6
+Normal
+
+d/f+2, 1
+m, m
+14,21
+15
+-13
+-13
+KND
+KND
+Tail spin
+
+d/f+3
+m
+11
+13
+-9
+-9
++4
++4
+Normal
+
+d/f+3, 1
+m, h
+11,12
+13
+-4
+-4
++4
++10
+Normal
+
+d/f+3, 1+2
+m, m
+11,20
+13
+-16
+-16
+CS
+CS
+Normal
+
+d/f+3, 1+2, 1+2
+m, m, h
+11,20,20
+13
+-1
+-1
+KND
+KND
+Normal
+
+d/f+4
+m
+12
+14
+-3
+-3
++3
++8
+Normal
+
+d/f+4, 1+2
+m, m
+12,30
+14
++1
++1s
++5s
++5s
+Normal
+
+d/f+1+2
+mm
+13,13
+25,47
+-20
+-20
+-9s
+KND(KND)
+Normal
+
+d/f+1+2, 1+2
+mm, m
+13,13,20
+25,47
+-18
+-18s
+KND
+KND
+Normal
+
+d+2
+m
+13
+15
+-14
+-14
+KND
+KND
+Normal
+
+d+3
+l
+18
+16
+-12
+-12
+-1
+-1
+Normal
+
+d+3, 2
+l, m
+18,17
+16
+-10
+-10s
+0s
+KND
+Normal
+
+d+1+2
+m
+30
+30
+-13
+-13
+KND
+KND
+Power crush
+
+d+3+4
+(Special)
+
+30
+-1
+
+
+
+Power crush
+
+d/b+2
+l (TC)
+20
+23(cs6)
+-14
+-14
++3
+KND
+Normal
+
+d/b+3
+l (TC)
+16
+21s(cs6)
+-28
+-28
++6
++6
+Normal
+
+d/b+4
+l (TC)
+8
+14s(cs4)
+-13
+-13
+-2
++3
+Normal
+
+d/b+1+2
+m
+35
+29~30
+-8
+-8~-7
+Launch
+Launch
+Normal
+
+b+1
+m?
+15
+20
+-15
+-15
+Launch (JG?)
+Launch (JG?)
+Normal
+
+b+2
+m
+20
+20
+-13
+-13
+KND
+KND
+Normal
+
+b+2, F
+m, (GOL)
+20
+20
+-26
+-26
+KND
+KND
+Normal
+
+b+2*
+m
+40
+41
++15
++15g
+KND
+KND
+Normal
+
+b+2*, F
+m, (GOL)
+40
+41
++19
++19
+KND
+KND
+Normal
+
+b+3
+m
+26
+21
+-9
+-9
+KND
+KND
+Normal
+
+b+4
+m
+20
+20
+-9
+-9s
++1s
+KND
+Normal
+
+b+1+2
+m
+30
+25
++1
++1s
++5s
++5s
+Normal
+
+u/f+1
+m (TJ)
+25
+23
+-9
+-9s
+TUD
+TUD
+Normal
+
+u/b+3
+m (TJ)
+13
+20~21
+-10
+-10~-9
++3~+4
++3~+4
+Normal
+
+u+3
+m (TJ)
+15
+20~21
+-10
+-10~-9
++3~+4
++3~+4
+Normal
+
+u/f+3
+m (TJ)
+17
+20~21
+-3
+-3~-2
++3~+4
+Launch (JG?)
+Normal
+
+u/f+4
+m (TJ)
+20
+25
+-13
+-13
+Launch (JG?)
+Launch (JG?)
+Normal
+
+u/f (On the way up) n+4
+m (TJ)
+25
+23
+-11
+-11
+Launch (JG?)
+Launch (JG?)
+Normal
+
+u/f+1+2
+m (TJ)
+35
+38~62d
+-15
+-15~+9
+KND
+KND
+Normal
+
+u/f+3+4
+m (TJ)
+25
+31~35
+-3
+-3~+1s
++7~+11s
+KND
+Normal
+
+f, F+2
+m
+20
+16(17~)
+-13
+-13
+KND
+KND
+Normal
+
+f, F+3
+m
+20
+17(18~)
+-10
+-10
+KND
+CS
+Normal
+
+f, F+4
+m
+17
+17(18~)
+-8
+-8
++3
++3
+Normal
+
+f, F+4, 2
+m, h
+17,25
+17(18~)
+-4
+-4
+Launch (JG?)
+Launch (JG?)
+Normal
+
+f, F+1+2
+m
+20
+17(18~)
+-16
+-16
+CS
+CS
+Homing
+
+f, F+1+2, 1+2
+m, h
+20,20
+17(18~)
+-1
+-1
+KND
+KND
+Normal
+
+f, f, f+2
+m
+30
+21~24 (24~)
++7
++7~+10g
+KND
+KND
+Normal
+
+WS+1
+m
+17
+11
+-7
+-7
++3
++3
+Normal
+
+WS+2
+m
+19
+15
+-5
+-5
++4
++4
+Normal
+
+WS+2, 3
+m, m
+19,24
+15
+-13
+-13
+KND
+KND
+Normal
+
+WS+2, 4
+m, m
+19,20
+15
+-14
+-14
+KND
+KND
+Normal
+
+WS+2, 4, F
+m, m, (GOL)
+19,20
+15
+-26
+-26
+KND
+KND
+Normal
+
+WS+2, 4*
+m, m
+19,40
+15
++26
++26g
+KND
+KND
+Normal
+
+WS+2, 4*, F
+m, m, (GOL)
+19,40
+15
++19
++19
+KND
+KND
+Normal
+
+WS+3
+m
+25
+18~19
+-13
+-13~-12
+Launch (JG?)
+Launch (JG?)
+Normal
+
+WS+4
+m
+21
+13
+-12
+-12
+KND
+CS
+Normal
+
+FC+d/f+2
+l
+20
+28
+-19
+-19
+KND
+KND
+Normal
+
+SS+2
+h (TJ)
+25
+28~a (37~)
+-12
+-12
+KND
+KND
+Tail spin
+
+Face down Grounded 2
+l
+20
+22
+-16
+-16
++1
+KND
+Normal
+
+Face down Grounded 1+2
+m
+30
+35
+0
+0
+KND
+KND
+Normal
+
+f+3+4 or From special move
+(GOL)
+
+35
+-1
+
+
+
+Normal
+
+GOL 1 (After two step)
+m
+25
+25(85)
++7
++7
+KND
+KND
+Normal
+
+GOL 1 (After three step)
+m
+40
+25(113)
++7
++7
+KND
+KND
+Normal
+
+GOL 2 (After two step)
+h!
+28
+23(83)
+-1
+KND
+KND
+KND
+Normal
+
+GOL 2 (After three step)
+h!
+40
+23(112)
+-1
+KND
+KND
+KND
+Normal
+
+GOL 1+2 (After two step)
+m (TJ)
+15
+55~61a,d (105~)
++4
++4~+10
+KND
+KND
+Normal
+
+GOL 1+2 (After three step)
+m (TJ)
+30
+55~61a,d (135~)
++4
++4~+10
+KND
+KND
+Normal
+
+d/b+3+4 (to SG)
+(Special)?(SG)
+
+55~61, (135~)
+-1
+
+
+
+Normal
+
+SG 1
+h
+25
+15(36~)
++5
++5
+Launch (JG?)
+Launch (JG?)
+Normal
+
+SG 2
+m
+30
+20(41~)
+-5
+-5
+KND
+KND
+Normal
+
+SG u/b
+(Special) (TJ)
+
+a
+-1
+
+
+
+Normal
+

@@ -1,0 +1,31 @@
+Date: 2015-11-05
+Version 0.0.1
+
+The first version is now complete.
+
+All menus has been added and are working, aswell as the navigation bar.
+
+-Test text for length
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc posuere nunc dolor, 
+sit amet fringilla nibh imperdiet et. 
+Pellentesque pulvinar enim id ultricies ultricies. 
+Curabitur eget mauris a lorem efficitur eleifend id sit amet elit. 
+Donec libero diam, congue ac nisl ac, vehicula congue ante. 
+Aliquam vulputate odio quis nulla.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Praesent pellentesque elit ligula, feugiat ullamcorper lectus posuere non. 
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras scelerisque tempor metus vitae pellentesque. Mauris consequat 
+mauris quis vulputate rhoncus. Vestibulum eu nisi tempor, 
+eleifend mi congue, euismod arcu. Integer non dapibus nisi, quis vestibulum nulla. Quisque auctor ac lectus in gravida. Lorem ipsum dolor 
+sit amet, consectetur adipiscing elit. Curabitur urna odio, mollis a vestibulum vel, rutrum eu massa.
+Nulla tristique tempus tortor, ut facilisis est lobortis in. Proin nibh nulla, 
+scelerisque non lacinia in, commodo non nisl.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc posuere nunc dolor, 
+sit amet fringilla nibh imperdiet et. 
+Pellentesque pulvinar enim id ultricies ultricies. 
+Curabitur eget mauris a lorem efficitur eleifend id sit amet elit. 
+Donec libero diam, congue ac nisl ac, vehicula congue ante. 
+Aliquam vulputate odio quis nulla.

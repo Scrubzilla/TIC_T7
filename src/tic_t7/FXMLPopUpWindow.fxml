@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXTabPane?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="background" prefHeight="450.0" prefWidth="650.0" stylesheets="@Layout.css" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="tic_t7.PopUpWindowController">
+   <children>
+      <Label layoutX="282.0" layoutY="15.0" text="Legend" textFill="#d9d9d9">
+         <font>
+            <Font name="Arial Bold" size="24.0" />
+         </font>
+      </Label>
+      <JFXTabPane layoutX="10.0" layoutY="50.0" prefHeight="390.0" prefWidth="630.0">
+         <tabs>
+            <Tab text="Commands">
+              <content>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <TableView fx:id="commandWindow" prefHeight="356.0" prefWidth="630.0">
+                          <columns>
+                            <TableColumn fx:id="columnNotation" editable="false" prefWidth="100.0" sortable="false" text="Notation" />
+                            <TableColumn fx:id="columnMeaning" editable="false" prefWidth="250.0" sortable="false" text="Meaning" />
+                              <TableColumn fx:id="columnExtra" editable="false" prefWidth="246.0" sortable="false" text="Extra" />
+                          </columns>
+                        </TableView>
+                     </children>
+                  </AnchorPane>
+              </content>
+            </Tab>
+            <Tab text="Notations">
+               <content>
+                  <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <TableView fx:id="notationWindow" prefHeight="356.0" prefWidth="630.0">
+                           <columns>
+                              <TableColumn fx:id="columnNotation1" prefWidth="100.0" text="Notation" />
+                              <TableColumn fx:id="columnMeaning1" prefWidth="250.0" text="Meaning" />
+                              <TableColumn fx:id="columnExtra1" prefWidth="246.0" text="Extra" />
+                           </columns>
+                        </TableView>
+                     </children>
+                  </AnchorPane>
+               </content>
+            </Tab>
+            <Tab text="Grounded Positions">
+               <content>
+                  <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <TableView fx:id="groundedPosWindow" prefHeight="356.0" prefWidth="630.0">
+                           <columns>
+                              <TableColumn fx:id="columnNotation2" prefWidth="100.0" text="Notation" />
+                              <TableColumn fx:id="columnMeaning2" prefWidth="250.0" text="Meaning" />
+                              <TableColumn fx:id="columnExtra2" prefWidth="246.0" text="Extra" />
+                           </columns>
+                        </TableView>
+                     </children>
+                  </AnchorPane>
+               </content>
+            </Tab>
+            <Tab text="Move Properties">
+               <content>
+                  <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <TableView fx:id="movePropsWindow" prefHeight="356.0" prefWidth="630.0">
+                           <columns>
+                              <TableColumn fx:id="columnNotation3" prefWidth="100.0" text="Notation" />
+                              <TableColumn fx:id="columnMeaning3" prefWidth="250.0" text="Meaning" />
+                              <TableColumn fx:id="columnExtra3" prefWidth="246.0" text="Extra" />
+                           </columns>
+                        </TableView>
+                     </children>
+                  </AnchorPane>
+               </content>
+            </Tab>
+            <Tab text="Hit Ranges">
+               <content>
+                  <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <TableView fx:id="hitRangeWIndow" prefHeight="356.0" prefWidth="630.0">
+                           <columns>
+                              <TableColumn fx:id="columnNotation4" prefWidth="100.0" text="Notation" />
+                              <TableColumn fx:id="columnMeaning4" prefWidth="250.0" text="Meaning" />
+                              <TableColumn fx:id="columnExtra4" prefWidth="246.0" text="Extra" />
+                           </columns>
+                        </TableView>
+                     </children>
+                  </AnchorPane>
+               </content>
+            </Tab>
+            <Tab text="Combo Specific Abbreviations">
+               <content>
+                  <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <TableView fx:id="comboSpecAbbWindow" prefHeight="356.0" prefWidth="630.0">
+                           <columns>
+                              <TableColumn fx:id="columnNotation5" prefWidth="100.0" text="Notation" />
+                              <TableColumn fx:id="columnMeaning5" prefWidth="250.0" text="Meaning" />
+                              <TableColumn fx:id="columnExtra5" prefWidth="246.0" text="Extra" />
+                           </columns>
+                        </TableView>
+                     </children>
+                  </AnchorPane>
+               </content>
+            </Tab>
+            <Tab text="Character Specific Abbreviations">
+               <content>
+                  <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <TableView fx:id="charSpecAbbWindow" prefHeight="356.0" prefWidth="630.0">
+                           <columns>
+                              <TableColumn fx:id="columnNotation6" prefWidth="100.0" text="Notation" />
+                              <TableColumn fx:id="columnMeaning6" prefWidth="250.0" text="Meaning" />
+                              <TableColumn fx:id="columnExtra6" prefWidth="246.0" text="Extra" />
+                           </columns>
+                        </TableView>
+                     </children>
+                  </AnchorPane>
+               </content>
+            </Tab>
+         </tabs>
+      </JFXTabPane>
+   </children>
+</AnchorPane>

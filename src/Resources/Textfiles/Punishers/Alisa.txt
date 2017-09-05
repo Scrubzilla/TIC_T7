@@ -1,0 +1,8 @@
+1 (can be used into strings/mixups)
+4:WS+4:U/F+1+2
+2,1:2,3
+d/f+4
+3,1:u/f+2:WS+2
+d/f+2:f+1+2:WS+1,4
+b+3:1+2:cc into d/f+2
+f+2:cc into 1+2:(19f)f+4:WS+3:(20f)u/f+4:u/f+4

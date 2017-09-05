@@ -1,0 +1,49 @@
+Date: 2017-07-09
+Version 0.0.5
+
+Additions:
+-Frame data - Character Selection:
+*Added a bunch of new characters to choose, the whole roster is now available.
+
+-Frame data - Selected Character:
+*The legends/notations window is now fully functionable.
+*The help window has been added.
+
+-Guides - Tutorials basic:
+*Tutorial videos has been added.
+
+-Guides - Tutorials specifics:
+*Tutorial videos has been added.
+
+-Tools:
+*Section - Online Statistics has been added.
+~Can be used to track both ranking progress as well as match records.
+~You can see your current rank as well as ranking points.
+~You can see how many points that are needed for demotion/promotion
+~You can see the previous/next rank.
+~You can track your win/loss ratio agains a specific opponent.
+~You can see the top 5 characters that an opponent plays.
+
+
+Changes: 
+-General - User interface:
+*The menu layout has been changed.
+*Unimportant sections has been removed.
+*Minor general adjustments has been made.
+
+-Frame Data - Character Selection:
+*Adjustments have been made to the portraits.
+
+-Frame Data - Selected Character:
+*Checkboxes for new move properties has been added.
+*Adjustments have been made to how data is displayed.
+*Movelists have been updated for Tekken 7.
+*Several character has been added to the character lists.
+
+-Guides - Tutorials Basic:
+*The description label has been modified.
+*The column size has been modified.
+
+-Guides - Tutorials Specifics:
+*The description label has been modified.
+*The column size has been modified.
